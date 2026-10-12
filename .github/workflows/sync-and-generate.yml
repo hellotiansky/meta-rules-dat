@@ -2,12 +2,12 @@ name: Sync Upstream & Generate List
 
 on:
   schedule:
-    - cron: '0 2 * * *'          # 每天 UTC 02:00（北京时间 10:00）自动同步+转换
+    - cron: '0 2 * * *'          # 每天 UTC 02:00（北京时间 10:00）
   push:
     branches: [sing]
     paths:
-      - 'my_custom_rules/**.txt'  # 只有自定义 txt 修改时才触发
-  workflow_dispatch:              # 支持手动运行
+      - 'my_custom_rules/**.txt'
+  workflow_dispatch:
 
 jobs:
   sync-and-convert:
@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5          # 升级到 v5，消除 Node.js 20 警告
         with:
           ref: sing
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -31,7 +31,7 @@ jobs:
           git checkout upstream/sing -- geo
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6      # 升级到 v6
         with:
           python-version: '3.12'
 
