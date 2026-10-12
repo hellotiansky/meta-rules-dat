@@ -17,21 +17,21 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v5          # 升级到 v5，消除 Node.js 20 警告
+        uses: actions/checkout@v5
         with:
           ref: sing
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: Sync upstream geo only
+      - name: Sync upstream (geo + geo-lite + asn)
         run: |
           git remote add upstream https://github.com/MetaCubeX/meta-rules-dat.git || true
           git fetch upstream sing
-          # 只同步 geo 目录，绝不覆盖 my_custom_rules
-          git checkout upstream/sing -- geo
+          # 同步这三个目录，不覆盖 my_custom_rules
+          git checkout upstream/sing -- geo geo-lite asn
 
       - name: Setup Python
-        uses: actions/setup-python@v6      # 升级到 v6
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
@@ -49,6 +49,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add geo/ my_custom_rules/
-          git diff --staged --quiet || git commit -m "chore: sync geo & generate list files $(date +'%Y-%m-%d %H:%M')"
+          git add geo/ geo-lite/ asn/ my_custom_rules/
+          git diff --staged --quiet || git commit -m "chore: sync upstream & generate list files $(date +'%Y-%m-%d %H:%M')"
           git push origin sing
