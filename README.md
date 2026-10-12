@@ -4,3 +4,4 @@
 方便`shadowrocket`利用远程规则集`rule-set`引用。
 - 自定义目录：`hellotiansky/meta-rules-dat/tree/sing/my_custom_rules`下是本人的自定义规则集，直接在线编辑`*.txt`文档，自动生成对应的srs/json/list规则集。
   默认只能生成域名后缀格式的规则集。
+- `json/srs`给sing-box使用，`list`给shadowrocket使用。
