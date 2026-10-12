@@ -3,3 +3,5 @@ telegram.com
 youtube.com
 cnn.com
 x.com
+github.com
+pei.com
