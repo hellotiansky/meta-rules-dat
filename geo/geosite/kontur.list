@@ -1,0 +1,10 @@
+# NAME: kontur
+# UPDATED: 2026-10-12 04:09:18
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 3
+# TOTAL: 5
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host
+DOMAIN-SUFFIX,kontur.ru
+DOMAIN-SUFFIX,kontur.host
+DOMAIN-SUFFIX,kontur-inc.com

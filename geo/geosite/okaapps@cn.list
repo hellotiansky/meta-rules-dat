@@ -1,0 +1,5 @@
+# NAME: okaapps@cn
+# UPDATED: 2026-10-12 04:09:18
+# URL-REGEX: 1
+# TOTAL: 1
+URL-REGEX,^(.+\.)*zh\.okaapps\.com$

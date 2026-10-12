@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "google.com",
+        "telegram.com",
+        "youtube.com",
+        "cnn.com",
+        "x.com"
+      ]
+    }
+  ]
+}

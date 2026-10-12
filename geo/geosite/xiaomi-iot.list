@@ -1,0 +1,8 @@
+# NAME: xiaomi-iot
+# UPDATED: 2026-10-12 04:09:18
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,miot-spec.org
+DOMAIN-SUFFIX,account.xiaomi.com
+DOMAIN-SUFFIX,cn-ha.mqtt.io.mi.com
+DOMAIN-SUFFIX,ha.api.io.mi.com

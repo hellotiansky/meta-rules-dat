@@ -1,0 +1,9 @@
+# NAME: category-ip-geo-detect@cn
+# UPDATED: 2026-10-12 04:09:18
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,ipify.cn
+DOMAIN-SUFFIX,iplark.com
+DOMAIN-SUFFIX,ipw.cn
+DOMAIN-SUFFIX,testipv6.cn
+DOMAIN-SUFFIX,whois.pconline.com.cn
