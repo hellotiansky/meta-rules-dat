@@ -1,5 +1,5 @@
 # NAME: github
-# UPDATED: 2026-10-13 03:07:01
+# UPDATED: 2026-10-13 09:05:58
 # DOMAIN: 32
 # DOMAIN-SUFFIX: 33
 # TOTAL: 65
@@ -62,9 +62,9 @@ DOMAIN-SUFFIX,octocaptcha.com
 DOMAIN-SUFFIX,opensource.guide
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
-DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,collector.github.com

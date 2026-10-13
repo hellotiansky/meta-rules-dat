@@ -1,8 +1,7 @@
 # NAME: category-media-cn@ads
-# UPDATED: 2026-10-13 03:07:01
+# UPDATED: 2026-10-13 09:05:58
 # DOMAIN-SUFFIX: 18
 # TOTAL: 18
-DOMAIN-SUFFIX,ad.cctv.com
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,adv-sv-show.focus.cn
@@ -19,4 +18,5 @@ DOMAIN-SUFFIX,qpb.sohu.com
 DOMAIN-SUFFIX,qpb1.sohu.com
 DOMAIN-SUFFIX,reke.at.sohu.com
 DOMAIN-SUFFIX,track.sohu.com
+DOMAIN-SUFFIX,ad.cctv.com
 DOMAIN-SUFFIX,adx.36kr.com
