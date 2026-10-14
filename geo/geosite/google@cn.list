@@ -1,5 +1,5 @@
 # NAME: google@cn
-# UPDATED: 2026-10-13 09:05:58
+# UPDATED: 2026-10-14 07:16:16
 # DOMAIN: 114
 # DOMAIN-SUFFIX: 10
 # URL-REGEX: 2
@@ -107,7 +107,6 @@ DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.gstatic.com
 DOMAIN,www.pxcc.com
-DOMAIN,redirector.c.play.google.com
 DOMAIN,pki-goog.l.google.com
 DOMAIN,c.pki.goog
 DOMAIN,i.pki.goog
@@ -118,6 +117,7 @@ DOMAIN,ocsp.pki.goog
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,update.crashlytics.com
+DOMAIN,redirector.c.play.google.com
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,g.cn
 DOMAIN-SUFFIX,gkecnapps.cn
