@@ -1,5 +1,5 @@
 # NAME: thelinuxfoundation
-# UPDATED: 2026-10-15 07:07:30
+# UPDATED: 2026-10-16 06:50:55
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 15
 # TOTAL: 17
@@ -7,9 +7,10 @@ DOMAIN,amp.akamaized.net
 DOMAIN,cdn.ampproject.org
 DOMAIN-SUFFIX,lfai.foundation
 DOMAIN-SUFFIX,linuxfoundation.org
-DOMAIN-SUFFIX,kernel.org
-DOMAIN-SUFFIX,linux.org
 DOMAIN-SUFFIX,openjsf.org
+DOMAIN-SUFFIX,jquery.com
+DOMAIN-SUFFIX,jquerymobile.com
+DOMAIN-SUFFIX,jqueryui.com
 DOMAIN-SUFFIX,mochajs.org
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,amp.dev
@@ -17,6 +18,5 @@ DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,electronjs.org
-DOMAIN-SUFFIX,jquery.com
-DOMAIN-SUFFIX,jquerymobile.com
-DOMAIN-SUFFIX,jqueryui.com
+DOMAIN-SUFFIX,kernel.org
+DOMAIN-SUFFIX,linux.org
