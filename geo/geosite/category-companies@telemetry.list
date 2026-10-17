@@ -1,11 +1,11 @@
 # NAME: category-companies@telemetry
-# UPDATED: 2026-10-16 06:50:55
+# UPDATED: 2026-10-17 06:43:29
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 2
 # TOTAL: 6
-DOMAIN,incoming.telemetry.mozilla.org
-DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,collector.github.com

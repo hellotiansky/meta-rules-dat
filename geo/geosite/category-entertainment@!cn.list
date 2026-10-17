@@ -1,5 +1,5 @@
 # NAME: category-entertainment@!cn
-# UPDATED: 2026-10-16 06:50:55
+# UPDATED: 2026-10-17 06:43:29
 # DOMAIN: 6
 # DOMAIN-SUFFIX: 31
 # TOTAL: 37
@@ -9,7 +9,6 @@ DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com
 DOMAIN,roovza.launches.appsflyersdk.com
 DOMAIN,roovza.skadsdk.appsflyersdk.com
-DOMAIN-SUFFIX,webnovel.com
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
@@ -40,3 +39,4 @@ DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
 DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
 DOMAIN-SUFFIX,tiktokv.com.edgekey.net
 DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
+DOMAIN-SUFFIX,webnovel.com

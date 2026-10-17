@@ -1,5 +1,5 @@
 # NAME: speedtest@ads
-# UPDATED: 2026-10-16 06:50:55
+# UPDATED: 2026-10-17 06:43:30
 # URL-REGEX: 1
 # TOTAL: 1
 URL-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
