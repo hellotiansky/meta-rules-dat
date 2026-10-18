@@ -1,9 +1,9 @@
 # NAME: private
-# UPDATED: 2026-10-17 06:43:30
-# DOMAIN: 12
+# UPDATED: 2026-10-18 07:03:40
+# DOMAIN: 14
 # DOMAIN-SUFFIX: 118
 # URL-REGEX: 1
-# TOTAL: 131
+# TOTAL: 133
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,asusrouter.com
@@ -12,6 +12,8 @@ DOMAIN,www.asusrouter.com
 DOMAIN,oasisauth.h3c.com
 DOMAIN,routerlogin.com
 DOMAIN,www.routerlogin.com
+DOMAIN,localhost.weixin.qq.com
+DOMAIN,localhost.work.weixin.qq.com
 DOMAIN,tplogin.cn
 DOMAIN,miwifi.com
 DOMAIN,www.miwifi.com

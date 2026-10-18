@@ -1,5 +1,5 @@
 # NAME: category-ru@cn
-# UPDATED: 2026-10-17 06:43:30
+# UPDATED: 2026-10-18 07:03:40
 # DOMAIN: 96
 # DOMAIN-SUFFIX: 2
 # TOTAL: 98
@@ -99,5 +99,5 @@ DOMAIN,s16.upd.kaspersky.com
 DOMAIN,s17.upd.kaspersky.com
 DOMAIN,s18.upd.kaspersky.com
 DOMAIN,s19.upd.kaspersky.com
-DOMAIN-SUFFIX,kaspersky.com.cn
 DOMAIN-SUFFIX,yandex-ad.cn
+DOMAIN-SUFFIX,kaspersky.com.cn

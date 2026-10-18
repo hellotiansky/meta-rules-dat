@@ -1,5 +1,5 @@
 # NAME: category-games-!cn@cn
-# UPDATED: 2026-10-17 06:43:29
+# UPDATED: 2026-10-18 07:03:40
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 33
 # URL-REGEX: 2
@@ -24,11 +24,11 @@ DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
+DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,leagueoflegends.cn
 DOMAIN-SUFFIX,lpl.com.cn
 DOMAIN-SUFFIX,yostar.cn
-DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
 DOMAIN-SUFFIX,miitomo.com.cn
