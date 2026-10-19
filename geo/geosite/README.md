@@ -1,6 +1,6 @@
 # GeoSite 规则列表
 
-> 自动生成于 2026-10-18 07:03:40  |  共 **1917** 个规则
+> 自动生成于 2026-10-19 07:27:33  |  共 **1919** 个规则
 
 ## 使用说明
 
@@ -369,6 +369,7 @@
 | `category-finance` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-finance.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-finance.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-finance.srs) |
 | `category-finance@ads` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-finance%40ads.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-finance%40ads.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-finance%40ads.srs) |
 | `category-finance@cn` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-finance%40cn.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-finance%40cn.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-finance%40cn.srs) |
+| `category-flight-simulator` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-flight-simulator.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-flight-simulator.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-flight-simulator.srs) |
 | `category-food-cn` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-food-cn.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-food-cn.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-food-cn.srs) |
 | `category-food-cn@ads` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-food-cn%40ads.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-food-cn%40ads.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-food-cn%40ads.srs) |
 | `category-food-cn@cn` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-food-cn%40cn.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-food-cn%40cn.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/category-food-cn%40cn.srs) |
@@ -1752,6 +1753,7 @@
 | `vanish` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vanish.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vanish.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vanish.srs) |
 | `vanish@cn` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vanish%40cn.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vanish%40cn.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vanish%40cn.srs) |
 | `vaptcha` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vaptcha.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vaptcha.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vaptcha.srs) |
+| `vatsim` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vatsim.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vatsim.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vatsim.srs) |
 | `veet` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/veet.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/veet.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/veet.srs) |
 | `veet@cn` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/veet%40cn.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/veet%40cn.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/veet%40cn.srs) |
 | `vercel` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vercel.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vercel.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/vercel.srs) |

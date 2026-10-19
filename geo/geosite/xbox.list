@@ -1,9 +1,8 @@
 # NAME: xbox
-# UPDATED: 2026-10-18 07:03:40
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 43
-# TOTAL: 45
-DOMAIN,flightsimulator.azureedge.net
+# UPDATED: 2026-10-19 07:27:33
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 41
+# TOTAL: 42
 DOMAIN,prodforza.blob.core.windows.net
 DOMAIN-SUFFIX,xbox
 DOMAIN-SUFFIX,gamepass.com
@@ -29,8 +28,6 @@ DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
-DOMAIN-SUFFIX,asobostudio.com
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,bethesdagamestudios.com

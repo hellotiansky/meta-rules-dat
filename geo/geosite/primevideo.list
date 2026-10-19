@@ -1,8 +1,8 @@
 # NAME: primevideo
-# UPDATED: 2026-10-18 07:03:40
+# UPDATED: 2026-10-19 07:27:32
 # DOMAIN: 10
-# DOMAIN-SUFFIX: 13
-# TOTAL: 23
+# DOMAIN-SUFFIX: 14
+# TOTAL: 24
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d25xi40x97liuc.cloudfront.net
@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.tv
+DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
 DOMAIN-SUFFIX,amazonprimevideo.cn
 DOMAIN-SUFFIX,amazonprimevideo.com.cn
