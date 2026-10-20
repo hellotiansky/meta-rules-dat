@@ -1,6 +1,6 @@
 # GeoSite 规则列表
 
-> 自动生成于 2026-10-19 07:27:33  |  共 **1919** 个规则
+> 自动生成于 2026-10-20 07:17:53  |  共 **1920** 个规则
 
 ## 使用说明
 
@@ -216,6 +216,7 @@
 | `bitauto` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitauto.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitauto.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitauto.srs) |
 | `bitflyer` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitflyer.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitflyer.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitflyer.srs) |
 | `bitly` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitly.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitly.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitly.srs) |
+| `bitrix` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitrix.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitrix.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitrix.srs) |
 | `bitsquare` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitsquare.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitsquare.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitsquare.srs) |
 | `bitwarden` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitwarden.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitwarden.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bitwarden.srs) |
 | `bjyouth` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bjyouth.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bjyouth.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/bjyouth.srs) |

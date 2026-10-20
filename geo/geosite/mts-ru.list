@@ -1,7 +1,7 @@
 # NAME: mts-ru
-# UPDATED: 2026-10-19 07:27:33
-# DOMAIN-SUFFIX: 12
-# TOTAL: 12
+# UPDATED: 2026-10-20 07:17:53
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
 DOMAIN-SUFFIX,mts-ws.net
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mymts.ru
@@ -12,5 +12,6 @@ DOMAIN-SUFFIX,tvoyodbo.online
 DOMAIN-SUFFIX,kion.ru
 DOMAIN-SUFFIX,mtsmedia.ru
 DOMAIN-SUFFIX,on-media.ru
+DOMAIN-SUFFIX,mts-link.ru
 DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,obs.mts.ru

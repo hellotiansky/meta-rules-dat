@@ -1,14 +1,15 @@
 # NAME: category-forums-ru
-# UPDATED: 2026-10-19 07:27:32
-# DOMAIN-SUFFIX: 10
-# TOTAL: 10
+# UPDATED: 2026-10-20 07:17:53
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
 DOMAIN-SUFFIX,dtf.ru
+DOMAIN-SUFFIX,joyreactor.cc
 DOMAIN-SUFFIX,opennet.dev
 DOMAIN-SUFFIX,opennet.ru
-DOMAIN-SUFFIX,prodota.ru
 DOMAIN-SUFFIX,pikabu.ru
+DOMAIN-SUFFIX,prodota.ru
 DOMAIN-SUFFIX,tischenko.su
 DOMAIN-SUFFIX,vc.ru
+DOMAIN-SUFFIX,yap.ru
 DOMAIN-SUFFIX,yapfiles.ru
 DOMAIN-SUFFIX,yaplakal.com
-DOMAIN-SUFFIX,yap.ru
