@@ -1,6 +1,6 @@
 # GeoSite 规则列表
 
-> 自动生成于 2026-10-20 07:17:53  |  共 **1920** 个规则
+> 自动生成于 2026-10-21 07:15:02  |  共 **1921** 个规则
 
 ## 使用说明
 
@@ -747,6 +747,7 @@
 | `flowus` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/flowus.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/flowus.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/flowus.srs) |
 | `flowwow` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/flowwow.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/flowwow.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/flowwow.srs) |
 | `flutter` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/flutter.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/flutter.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/flutter.srs) |
+| `fluxer` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fluxer.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fluxer.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fluxer.srs) |
 | `flyio` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/flyio.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/flyio.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/flyio.srs) |
 | `focuschina` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/focuschina.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/focuschina.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/focuschina.srs) |
 | `fonbet` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fonbet.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fonbet.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fonbet.srs) |
