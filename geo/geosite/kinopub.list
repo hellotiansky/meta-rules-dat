@@ -1,10 +1,10 @@
 # NAME: kinopub
-# UPDATED: 2026-10-22 07:16:54
-# DOMAIN-SUFFIX: 17
+# UPDATED: 2026-10-23 07:09:28
+# DOMAIN-SUFFIX: 18
 # URL-REGEX: 1
-# TOTAL: 18
-DOMAIN-SUFFIX,cdn-service.space
-DOMAIN-SUFFIX,cdn2cdn.com
+# TOTAL: 19
+DOMAIN-SUFFIX,teleos.club
+DOMAIN-SUFFIX,support-kp.com
 DOMAIN-SUFFIX,kinopub.online
 DOMAIN-SUFFIX,kpdl.link
 DOMAIN-SUFFIX,ahc.ovh
@@ -14,10 +14,11 @@ DOMAIN-SUFFIX,mos-gorsud.co
 DOMAIN-SUFFIX,kino.watch
 DOMAIN-SUFFIX,smarttvcdn.online
 DOMAIN-SUFFIX,pushbr.com
-DOMAIN-SUFFIX,teleos.club
+DOMAIN-SUFFIX,srvkp.com
 DOMAIN-SUFFIX,kino.pub
-DOMAIN-SUFFIX,support-kp.com
+DOMAIN-SUFFIX,cdn-service.space
+DOMAIN-SUFFIX,cdn2cdn.com
 DOMAIN-SUFFIX,cdn2site.com
-DOMAIN-SUFFIX,api.alador.space
 DOMAIN-SUFFIX,m.alador.space
+DOMAIN-SUFFIX,api.alador.space
 URL-REGEX,(\w+)-static-[0-9]+\.cdntogo\.net$

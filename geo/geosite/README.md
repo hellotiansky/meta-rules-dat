@@ -1,6 +1,6 @@
 # GeoSite 规则列表
 
-> 自动生成于 2026-10-22 07:16:54  |  共 **1921** 个规则
+> 自动生成于 2026-10-23 07:09:29  |  共 **1923** 个规则
 
 ## 使用说明
 
@@ -650,6 +650,7 @@
 | `dropbox` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/dropbox.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/dropbox.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/dropbox.srs) |
 | `drweb` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/drweb.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/drweb.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/drweb.srs) |
 | `dslreports` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/dslreports.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/dslreports.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/dslreports.srs) |
+| `dsn-host` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/dsn-host.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/dsn-host.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/dsn-host.srs) |
 | `duckduckgo` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/duckduckgo.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/duckduckgo.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/duckduckgo.srs) |
 | `duitang` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/duitang.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/duitang.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/duitang.srs) |
 | `duolingo` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/duolingo.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/duolingo.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/duolingo.srs) |
@@ -717,6 +718,7 @@
 | `familymart` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/familymart.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/familymart.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/familymart.srs) |
 | `familymart@cn` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/familymart%40cn.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/familymart%40cn.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/familymart%40cn.srs) |
 | `fandom` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fandom.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fandom.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fandom.srs) |
+| `fanfiction` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fanfiction.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fanfiction.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fanfiction.srs) |
 | `fans66` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fans66.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fans66.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fans66.srs) |
 | `fansta` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fansta.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fansta.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/fansta.srs) |
 | `farfetch` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/farfetch.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/farfetch.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/farfetch.srs) |
