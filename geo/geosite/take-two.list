@@ -1,5 +1,5 @@
 # NAME: take-two
-# UPDATED: 2026-10-23 07:09:28
+# UPDATED: 2026-10-24 06:59:12
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 14
 # TOTAL: 17
@@ -7,12 +7,6 @@ DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,media-rockstargames-com.akamaized.net
 DOMAIN,videos-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,take2games.com
-DOMAIN-SUFFIX,2k.com
-DOMAIN-SUFFIX,2kcoretech.online
-DOMAIN-SUFFIX,2kct.onl
-DOMAIN-SUFFIX,2kgames.com
-DOMAIN-SUFFIX,2ksports.com
-DOMAIN-SUFFIX,2kweb.online
 DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,rockstarnorth.com
 DOMAIN-SUFFIX,rsg.ms
@@ -20,3 +14,9 @@ DOMAIN-SUFFIX,rsg.sc
 DOMAIN-SUFFIX,zynga.com
 DOMAIN-SUFFIX,zyngaplayersupport.com
 DOMAIN-SUFFIX,zyngapoker.com
+DOMAIN-SUFFIX,2k.com
+DOMAIN-SUFFIX,2kcoretech.online
+DOMAIN-SUFFIX,2kct.onl
+DOMAIN-SUFFIX,2kgames.com
+DOMAIN-SUFFIX,2ksports.com
+DOMAIN-SUFFIX,2kweb.online
