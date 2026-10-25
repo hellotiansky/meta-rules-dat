@@ -1,8 +1,9 @@
 # NAME: category-ecommerce@ads
-# UPDATED: 2026-10-24 06:59:12
+# UPDATED: 2026-10-25 07:22:59
 # DOMAIN: 34
 # DOMAIN-SUFFIX: 11
 # TOTAL: 45
+DOMAIN,stats.avito.ru
 DOMAIN,ad.ozone.ru
 DOMAIN,adv.ozon.ru
 DOMAIN,agency-adv.ozon.ru
@@ -36,7 +37,6 @@ DOMAIN,marketing-info.wildberries.ru
 DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,sentry.wb.ru
 DOMAIN,web-analytics.wildberries.ru
-DOMAIN,stats.avito.ru
 DOMAIN-SUFFIX,ad.games.dmm.com
 DOMAIN-SUFFIX,bluekai.com
 DOMAIN-SUFFIX,fout.jp

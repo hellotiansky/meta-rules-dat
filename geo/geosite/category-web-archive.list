@@ -1,5 +1,5 @@
 # NAME: category-web-archive
-# UPDATED: 2026-10-24 06:59:12
+# UPDATED: 2026-10-25 07:22:59
 # DOMAIN-SUFFIX: 18
 # TOTAL: 18
 DOMAIN-SUFFIX,eotarchive.org
@@ -8,8 +8,6 @@ DOMAIN-SUFFIX,megalodon.jp
 DOMAIN-SUFFIX,mementoweb.org
 DOMAIN-SUFFIX,perma.cc
 DOMAIN-SUFFIX,webcitation.org
-DOMAIN-SUFFIX,4pcdn.org
-DOMAIN-SUFFIX,4plebs.org
 DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
@@ -20,3 +18,5 @@ DOMAIN-SUFFIX,archive.vn
 DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,openlibrary.org
+DOMAIN-SUFFIX,4pcdn.org
+DOMAIN-SUFFIX,4plebs.org

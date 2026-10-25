@@ -1,8 +1,11 @@
 # NAME: category-dev@cn
-# UPDATED: 2026-10-24 06:59:12
+# UPDATED: 2026-10-25 07:22:59
 # DOMAIN: 15
 # DOMAIN-SUFFIX: 9
 # TOTAL: 24
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,update.crashlytics.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,cdn.ampproject.org
 DOMAIN,cdn.apple-mapkit.com
@@ -15,9 +18,8 @@ DOMAIN,cdn-cn1.apple-mapkit.com
 DOMAIN,cdn-cn2.apple-mapkit.com
 DOMAIN,cdn-cn3.apple-mapkit.com
 DOMAIN,cdn-cn4.apple-mapkit.com
-DOMAIN,crashlyticsreports-pa.googleapis.com
-DOMAIN,firebase-settings.crashlytics.com
-DOMAIN,update.crashlytics.com
+DOMAIN-SUFFIX,jetbrains.com.cn
+DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN-SUFFIX,microsoftreactor.cn
 DOMAIN-SUFFIX,microsoftreactor.com.cn
 DOMAIN-SUFFIX,reactorms.com.cn
@@ -25,5 +27,3 @@ DOMAIN-SUFFIX,researchkit.cn
 DOMAIN-SUFFIX,researchkit.com.cn
 DOMAIN-SUFFIX,swiftui.cn
 DOMAIN-SUFFIX,swiftui.com.cn
-DOMAIN-SUFFIX,jetbrains.com.cn
-DOMAIN-SUFFIX,cdn.jetbrains.com

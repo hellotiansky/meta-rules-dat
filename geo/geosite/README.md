@@ -1,6 +1,6 @@
 # GeoSite 规则列表
 
-> 自动生成于 2026-10-24 06:59:12  |  共 **1923** 个规则
+> 自动生成于 2026-10-25 07:22:59  |  共 **1924** 个规则
 
 ## 使用说明
 
@@ -483,6 +483,7 @@
 | `cctv@ads` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cctv%40ads.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cctv%40ads.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cctv%40ads.srs) |
 | `cdek` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cdek.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cdek.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cdek.srs) |
 | `cdn77` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cdn77.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cdn77.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cdn77.srs) |
+| `cdprojekt` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cdprojekt.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cdprojekt.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cdprojekt.srs) |
 | `ceno` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/ceno.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/ceno.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/ceno.srs) |
 | `cerebras` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cerebras.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cerebras.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cerebras.srs) |
 | `cern` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cern.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cern.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/cern.srs) |

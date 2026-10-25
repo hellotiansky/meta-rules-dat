@@ -1,7 +1,7 @@
 # NAME: tencent@ads
-# UPDATED: 2026-10-24 06:59:12
-# DOMAIN-SUFFIX: 71
-# TOTAL: 71
+# UPDATED: 2026-10-25 07:22:59
+# DOMAIN-SUFFIX: 72
+# TOTAL: 72
 DOMAIN-SUFFIX,ad.browser.qq.com
 DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,hq-tracking.qq.com
 DOMAIN-SUFFIX,htrace.wetvinfo.com
 DOMAIN-SUFFIX,isdspeed.qq.com
@@ -51,7 +52,6 @@ DOMAIN-SUFFIX,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,wit.qq.com
-DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,adstats.tencentmusic.com
 DOMAIN-SUFFIX,monitor.music.qq.com
@@ -73,3 +73,4 @@ DOMAIN-SUFFIX,pb.i.sogou.com
 DOMAIN-SUFFIX,theta.sogoucdn.com
 DOMAIN-SUFFIX,uranus.sogou.com
 DOMAIN-SUFFIX,wuliao.epro.sogou.com
+DOMAIN-SUFFIX,badjs.weixinbridge.com
