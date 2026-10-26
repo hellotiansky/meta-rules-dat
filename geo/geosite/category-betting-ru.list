@@ -1,9 +1,7 @@
 # NAME: category-betting-ru
-# UPDATED: 2026-10-25 07:22:59
+# UPDATED: 2026-10-26 07:32:30
 # DOMAIN-SUFFIX: 13
 # TOTAL: 13
-DOMAIN-SUFFIX,betboom.ru
-DOMAIN-SUFFIX,mobile-bb.com
 DOMAIN-SUFFIX,bk6bba-resources.com
 DOMAIN-SUFFIX,bk6bba-resources.ru
 DOMAIN-SUFFIX,fon.bet
@@ -15,3 +13,5 @@ DOMAIN-SUFFIX,sozvezdie-dobra.ru
 DOMAIN-SUFFIX,win-line.ru
 DOMAIN-SUFFIX,winline.ru
 DOMAIN-SUFFIX,winlinebet.ru
+DOMAIN-SUFFIX,betboom.ru
+DOMAIN-SUFFIX,mobile-bb.com

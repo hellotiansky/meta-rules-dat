@@ -1,8 +1,7 @@
 # NAME: category-ecommerce-ru@ads
-# UPDATED: 2026-10-25 07:22:59
+# UPDATED: 2026-10-26 07:32:30
 # DOMAIN: 34
 # TOTAL: 34
-DOMAIN,stats.avito.ru
 DOMAIN,ad.ozone.ru
 DOMAIN,adv.ozon.ru
 DOMAIN,agency-adv.ozon.ru
@@ -36,3 +35,4 @@ DOMAIN,marketing-info.wildberries.ru
 DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,sentry.wb.ru
 DOMAIN,web-analytics.wildberries.ru
+DOMAIN,stats.avito.ru

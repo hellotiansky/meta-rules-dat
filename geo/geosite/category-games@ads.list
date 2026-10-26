@@ -1,7 +1,7 @@
 # NAME: category-games@ads
-# UPDATED: 2026-10-25 07:22:59
+# UPDATED: 2026-10-26 07:32:30
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
-DOMAIN-SUFFIX,log-upload.mihoyo.com
-DOMAIN-SUFFIX,insights-collector.gog.com
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,insights-collector.gog.com
+DOMAIN-SUFFIX,log-upload.mihoyo.com

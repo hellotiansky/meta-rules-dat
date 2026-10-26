@@ -1,5 +1,5 @@
 # NAME: category-flight-simulator
-# UPDATED: 2026-10-25 07:22:59
+# UPDATED: 2026-10-26 07:32:30
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 77
 # TOTAL: 79
@@ -54,8 +54,6 @@ DOMAIN-SUFFIX,x-plane.com
 DOMAIN-SUFFIX,x-plane.org
 DOMAIN-SUFFIX,xenviro.net
 DOMAIN-SUFFIX,xpilot-project.org
-DOMAIN-SUFFIX,asobostudio.com
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,vatsim.me
 DOMAIN-SUFFIX,vatssa.com
 DOMAIN-SUFFIX,vatcan.ca
@@ -78,6 +76,8 @@ DOMAIN-SUFFIX,vat-apac.com
 DOMAIN-SUFFIX,vatsim.net
 DOMAIN-SUFFIX,vatsim.uk
 DOMAIN-SUFFIX,vatroc.net
+DOMAIN-SUFFIX,asobostudio.com
+DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,hifisimtech.zendesk.com
 DOMAIN-SUFFIX,vatsim.com.br
 DOMAIN-SUFFIX,vatmex.com.mx
