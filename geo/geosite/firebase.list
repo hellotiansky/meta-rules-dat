@@ -1,5 +1,5 @@
 # NAME: firebase
-# UPDATED: 2026-10-26 07:32:30
+# UPDATED: 2026-10-27 07:28:54
 # DOMAIN: 16
 # DOMAIN-SUFFIX: 7
 # TOTAL: 23
@@ -12,12 +12,12 @@ DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
 DOMAIN,firebasedynamiclinks.googleapis.com
 DOMAIN,firebaseinappmessaging.googleapis.com
 DOMAIN,firebaseinstallations.googleapis.com
-DOMAIN,firebaselogging-pa.googleapis.com
-DOMAIN,firebaselogging.googleapis.com
 DOMAIN,firebaseperusertopics-pa.googleapis.com
 DOMAIN,firebaseremoteconfig.googleapis.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
 DOMAIN,update.crashlytics.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,firebase.com

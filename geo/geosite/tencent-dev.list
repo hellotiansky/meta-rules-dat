@@ -1,5 +1,5 @@
 # NAME: tencent-dev
-# UPDATED: 2026-10-26 07:32:30
+# UPDATED: 2026-10-27 07:28:54
 # DOMAIN-SUFFIX: 16
 # TOTAL: 16
 DOMAIN-SUFFIX,openmidas.com
@@ -13,8 +13,8 @@ DOMAIN-SUFFIX,tjstats.com
 DOMAIN-SUFFIX,wegamedeveloper.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weui.io
-DOMAIN-SUFFIX,cnb.cool
-DOMAIN-SUFFIX,cnb.space
 DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,coding.net
+DOMAIN-SUFFIX,cnb.cool
+DOMAIN-SUFFIX,cnb.space
 DOMAIN-SUFFIX,badjs.weixinbridge.com

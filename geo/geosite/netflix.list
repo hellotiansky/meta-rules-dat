@@ -1,10 +1,8 @@
 # NAME: netflix
-# UPDATED: 2026-10-26 07:32:30
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 23
+# UPDATED: 2026-10-27 07:28:54
+# DOMAIN-SUFFIX: 24
 # URL-REGEX: 4
 # TOTAL: 28
-DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
@@ -28,6 +26,7 @@ DOMAIN-SUFFIX,netflixdnstest7.com
 DOMAIN-SUFFIX,netflixdnstest8.com
 DOMAIN-SUFFIX,netflixdnstest9.com
 DOMAIN-SUFFIX,netflixdnstest10.com
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
 URL-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 URL-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$

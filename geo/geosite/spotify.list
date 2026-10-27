@@ -1,14 +1,13 @@
 # NAME: spotify
-# UPDATED: 2026-10-26 07:32:30
-# DOMAIN: 11
-# DOMAIN-SUFFIX: 17
+# UPDATED: 2026-10-27 07:28:54
+# DOMAIN: 10
+# DOMAIN-SUFFIX: 18
 # TOTAL: 28
 DOMAIN,audio-ak-spotify-com.akamaized.net
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com
 DOMAIN,heads-ak-spotify-com.akamaized.net
 DOMAIN,heads4-ak-spotify-com.akamaized.net
-DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
 DOMAIN,adeventtracker.spotify.com
@@ -31,3 +30,4 @@ DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyforvendors.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,tospotify.com
+DOMAIN-SUFFIX,spotify.com.edgesuite.net

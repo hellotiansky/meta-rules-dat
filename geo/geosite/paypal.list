@@ -1,5 +1,5 @@
 # NAME: paypal
-# UPDATED: 2026-10-26 07:32:30
+# UPDATED: 2026-10-27 07:28:54
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 244
 # TOTAL: 245
@@ -141,7 +141,6 @@ DOMAIN-SUFFIX,paypal.jp
 DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypal.so
 DOMAIN-SUFFIX,paypal.us
-DOMAIN-SUFFIX,paypalbeacon.com
 DOMAIN-SUFFIX,paypalbenefits.com
 DOMAIN-SUFFIX,paypalbrasil.com
 DOMAIN-SUFFIX,paypalcommunity.com
@@ -243,6 +242,7 @@ DOMAIN-SUFFIX,beibao.com.cn
 DOMAIN-SUFFIX,paypal.com.cn
 DOMAIN-SUFFIX,paypal.net.cn
 DOMAIN-SUFFIX,paypal.org.cn
+DOMAIN-SUFFIX,paypalbeacon.com
 DOMAIN-SUFFIX,paypalcommunity.cn
 DOMAIN-SUFFIX,paypalhere.cn
 DOMAIN-SUFFIX,paypalhere.com.cn

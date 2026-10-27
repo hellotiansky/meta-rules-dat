@@ -1,9 +1,8 @@
 # NAME: category-orgs
-# UPDATED: 2026-10-26 07:32:30
+# UPDATED: 2026-10-27 07:28:54
 # DOMAIN: 10
 # DOMAIN-SUFFIX: 121
 # TOTAL: 131
-DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN,a.ppy.sh
 DOMAIN,assets.ppy.sh
 DOMAIN,c.ppy.sh
@@ -11,8 +10,9 @@ DOMAIN,osu.ppy.sh
 DOMAIN,m1.ppy.sh
 DOMAIN,lazer.ppy.sh
 DOMAIN,notify.ppy.sh
-DOMAIN,sentry.ppy.sh
 DOMAIN,spectator.ppy.sh
+DOMAIN,csis-prod.s3.amazonaws.com
+DOMAIN,sentry.ppy.sh
 DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,atypi.org
 DOMAIN-SUFFIX,change.org
@@ -28,22 +28,10 @@ DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,wi-fi.org
 DOMAIN-SUFFIX,wto.org
-DOMAIN-SUFFIX,ccstatic.org
-DOMAIN-SUFFIX,creativecommons.org
-DOMAIN-SUFFIX,creativecommons.engineering
-DOMAIN-SUFFIX,licensebuttons.net
-DOMAIN-SUFFIX,csis.org
 DOMAIN-SUFFIX,f-dro1d.org
 DOMAIN-SUFFIX,f-droid.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,fdroid.org
-DOMAIN-SUFFIX,ppy.sh
-DOMAIN-SUFFIX,rolfoundation.org
-DOMAIN-SUFFIX,rolsociety.org
-DOMAIN-SUFFIX,emojipedia.org
-DOMAIN-SUFFIX,worldemojiawards.com
-DOMAIN-SUFFIX,worldemojiday.com
-DOMAIN-SUFFIX,xn--yt8h.la
 DOMAIN-SUFFIX,attestation.app
 DOMAIN-SUFFIX,grapheneos.app
 DOMAIN-SUFFIX,grapheneos.ca
@@ -134,3 +122,15 @@ DOMAIN-SUFFIX,osmfoundation.org
 DOMAIN-SUFFIX,stateofthemap.com
 DOMAIN-SUFFIX,stateofthemap.org
 DOMAIN-SUFFIX,paskoocheh.com
+DOMAIN-SUFFIX,ppy.sh
+DOMAIN-SUFFIX,ccstatic.org
+DOMAIN-SUFFIX,creativecommons.org
+DOMAIN-SUFFIX,creativecommons.engineering
+DOMAIN-SUFFIX,licensebuttons.net
+DOMAIN-SUFFIX,csis.org
+DOMAIN-SUFFIX,emojipedia.org
+DOMAIN-SUFFIX,worldemojiawards.com
+DOMAIN-SUFFIX,worldemojiday.com
+DOMAIN-SUFFIX,xn--yt8h.la
+DOMAIN-SUFFIX,rolfoundation.org
+DOMAIN-SUFFIX,rolsociety.org

@@ -1,5 +1,5 @@
 # NAME: peppy
-# UPDATED: 2026-10-26 07:32:30
+# UPDATED: 2026-10-27 07:28:54
 # DOMAIN: 9
 # DOMAIN-SUFFIX: 1
 # TOTAL: 10
@@ -10,6 +10,6 @@ DOMAIN,osu.ppy.sh
 DOMAIN,m1.ppy.sh
 DOMAIN,lazer.ppy.sh
 DOMAIN,notify.ppy.sh
-DOMAIN,sentry.ppy.sh
 DOMAIN,spectator.ppy.sh
+DOMAIN,sentry.ppy.sh
 DOMAIN-SUFFIX,ppy.sh

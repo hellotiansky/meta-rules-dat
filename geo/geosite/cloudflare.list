@@ -1,5 +1,5 @@
 # NAME: cloudflare
-# UPDATED: 2026-10-26 07:32:30
+# UPDATED: 2026-10-27 07:28:54
 # DOMAIN-SUFFIX: 76
 # TOTAL: 76
 DOMAIN-SUFFIX,argotunnel.com
@@ -26,7 +26,6 @@ DOMAIN-SUFFIX,cloudflarebrowser.com
 DOMAIN-SUFFIX,cloudflarechallenge.com
 DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN-SUFFIX,cloudflarecp.com
-DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudflareok.com
 DOMAIN-SUFFIX,cloudflarepartners.com
 DOMAIN-SUFFIX,cloudflareportal.com
@@ -59,6 +58,7 @@ DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,one.one.one
+DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cf-china.info
 DOMAIN-SUFFIX,cf-ns.com
 DOMAIN-SUFFIX,cf-ns.net
