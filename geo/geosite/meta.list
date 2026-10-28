@@ -1,14 +1,15 @@
 # NAME: meta
-# UPDATED: 2026-10-27 07:28:54
+# UPDATED: 2026-10-28 08:02:03
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 553
-# TOTAL: 555
+# DOMAIN-SUFFIX: 554
+# TOTAL: 556
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,developers.facebook.com
 DOMAIN-SUFFIX,atmeta.com
 DOMAIN-SUFFIX,llama.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,metaaiusercontent.com
 DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,aboutfacebook.com

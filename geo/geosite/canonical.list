@@ -1,10 +1,8 @@
 # NAME: canonical
-# UPDATED: 2026-10-27 07:28:54
+# UPDATED: 2026-10-28 08:02:03
 # DOMAIN-SUFFIX: 12
 # TOTAL: 12
 DOMAIN-SUFFIX,canonical.com
-DOMAIN-SUFFIX,snapcraft.io
-DOMAIN-SUFFIX,snapstore.io
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,ubuntu.net
 DOMAIN-SUFFIX,ubuntuforums.org
@@ -14,3 +12,5 @@ DOMAIN-SUFFIX,launchpadcontent.net
 DOMAIN-SUFFIX,launchpadlibrarian.com
 DOMAIN-SUFFIX,launchpadlibrarian.net
 DOMAIN-SUFFIX,launchpadlibrarian.org
+DOMAIN-SUFFIX,snapcraft.io
+DOMAIN-SUFFIX,snapstore.io

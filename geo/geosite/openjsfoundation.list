@@ -1,12 +1,11 @@
 # NAME: openjsfoundation
-# UPDATED: 2026-10-27 07:28:54
+# UPDATED: 2026-10-28 08:02:03
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 11
 # TOTAL: 13
 DOMAIN,amp.akamaized.net
 DOMAIN,cdn.ampproject.org
 DOMAIN-SUFFIX,openjsf.org
-DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,amp.dev
 DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
@@ -16,3 +15,4 @@ DOMAIN-SUFFIX,jquery.com
 DOMAIN-SUFFIX,jquerymobile.com
 DOMAIN-SUFFIX,jqueryui.com
 DOMAIN-SUFFIX,mochajs.org
+DOMAIN-SUFFIX,nodejs.org
