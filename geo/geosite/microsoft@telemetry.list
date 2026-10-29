@@ -1,5 +1,5 @@
 # NAME: microsoft@telemetry
-# UPDATED: 2026-10-28 08:02:03
+# UPDATED: 2026-10-29 08:11:50
 # DOMAIN: 6
 # DOMAIN-SUFFIX: 11
 # TOTAL: 17
@@ -15,8 +15,8 @@ DOMAIN-SUFFIX,aria.ms
 DOMAIN-SUFFIX,data.microsoft.com
 DOMAIN-SUFFIX,telemetry.microsoft.com
 DOMAIN-SUFFIX,nelreports.net
-DOMAIN-SUFFIX,browser.events.data.msn.cn
-DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,in.applicationinsights.azure.com
 DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com

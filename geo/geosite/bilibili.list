@@ -1,5 +1,5 @@
 # NAME: bilibili
-# UPDATED: 2026-10-28 08:02:03
+# UPDATED: 2026-10-29 08:11:50
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 52
 # TOTAL: 53
@@ -34,12 +34,6 @@ DOMAIN-SUFFIX,huasheng.cn
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,updream.cn
 DOMAIN-SUFFIX,yo9.com
-DOMAIN-SUFFIX,bilibiligame.cn
-DOMAIN-SUFFIX,bilibiligame.co
-DOMAIN-SUFFIX,bilibiligame.net
-DOMAIN-SUFFIX,biligame.co
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bilicdn1.com
 DOMAIN-SUFFIX,bilicdn2.com
 DOMAIN-SUFFIX,bilicdn3.com
@@ -53,6 +47,12 @@ DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,hdslb.org
 DOMAIN-SUFFIX,maoercdn.com
 DOMAIN-SUFFIX,mincdn.com
+DOMAIN-SUFFIX,bilibiligame.cn
+DOMAIN-SUFFIX,bilibiligame.co
+DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,biligame.co
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,dreamcast.hk

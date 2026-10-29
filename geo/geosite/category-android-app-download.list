@@ -1,11 +1,12 @@
 # NAME: category-android-app-download
-# UPDATED: 2026-10-28 08:02:03
+# UPDATED: 2026-10-29 08:11:49
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 10
 # TOTAL: 11
 DOMAIN,apkmirror.disqus.com
 DOMAIN-SUFFIX,uptodown.com
 DOMAIN-SUFFIX,utdstc.com
+DOMAIN-SUFFIX,apkcombo.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apkpure.net
@@ -13,4 +14,3 @@ DOMAIN-SUFFIX,apkpures.xyz
 DOMAIN-SUFFIX,cdnpure.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,winudf.com
-DOMAIN-SUFFIX,apkcombo.com

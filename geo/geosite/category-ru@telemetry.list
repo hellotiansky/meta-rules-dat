@@ -1,8 +1,22 @@
 # NAME: category-ru@telemetry
-# UPDATED: 2026-10-28 08:02:03
+# UPDATED: 2026-10-29 08:11:50
 # DOMAIN: 33
 # DOMAIN-SUFFIX: 18
 # TOTAL: 51
+DOMAIN,sentry.ozon.ru
+DOMAIN,analytics-stage.wildberries.ru
+DOMAIN,analytics.wildberries.ru
+DOMAIN,marketplace-sentry.wb.ru
+DOMAIN,sentry.wb.ru
+DOMAIN,web-analytics.wildberries.ru
+DOMAIN,stats.avito.ru
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host
+DOMAIN,analytics.mobile.yandex.net
+DOMAIN,log.strm.yandex.ru
+DOMAIN,mc.yandex.com
+DOMAIN,mc.yandex.net
+DOMAIN,mc.yango.com
 DOMAIN,sentry-ng.g.smailru.net
 DOMAIN,srch-telemeter10.g.smailru.net
 DOMAIN,sentry.dev-my.com
@@ -19,28 +33,9 @@ DOMAIN,metrics.21-school.ru
 DOMAIN,sentry.sberauto.com
 DOMAIN,tracing-http.megamarket.tech
 DOMAIN,sentry.iptv.rt.ru
+DOMAIN,sentry.x5.ru
 DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
-DOMAIN,sentry.ozon.ru
-DOMAIN,analytics-stage.wildberries.ru
-DOMAIN,analytics.wildberries.ru
-DOMAIN,marketplace-sentry.wb.ru
-DOMAIN,sentry.wb.ru
-DOMAIN,web-analytics.wildberries.ru
-DOMAIN,stats.avito.ru
-DOMAIN,sentry.x5.ru
-DOMAIN,metrika.kontur.ru
-DOMAIN,sentry.kontur.host
-DOMAIN,analytics.mobile.yandex.net
-DOMAIN,log.strm.yandex.ru
-DOMAIN,mc.yandex.com
-DOMAIN,mc.yandex.net
-DOMAIN,mc.yango.com
-DOMAIN-SUFFIX,apptracer.ru
-DOMAIN-SUFFIX,metrics.viqeo.tv
-DOMAIN-SUFFIX,log.dzen.ru
-DOMAIN-SUFFIX,clickstream.sberbank.ru
-DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,appmetrica.yandex.com
 DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
@@ -54,3 +49,8 @@ DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,webvisor.org
 DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandexmetrica.com
+DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN-SUFFIX,apptracer.ru
+DOMAIN-SUFFIX,metrics.viqeo.tv
+DOMAIN-SUFFIX,log.dzen.ru
+DOMAIN-SUFFIX,clickstream.sberbank.ru
