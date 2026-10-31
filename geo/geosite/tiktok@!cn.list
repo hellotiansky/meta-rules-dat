@@ -1,8 +1,8 @@
 # NAME: tiktok@!cn
-# UPDATED: 2026-10-30 08:16:25
+# UPDATED: 2026-10-31 08:08:05
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 30
-# TOTAL: 36
+# DOMAIN-SUFFIX: 33
+# TOTAL: 39
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 DOMAIN,roovza-launches.appsflyersdk.com
@@ -25,9 +25,12 @@ DOMAIN-SUFFIX,tiktokeu-cdn.com
 DOMAIN-SUFFIX,tiktokglobalshopv.com
 DOMAIN-SUFFIX,tiktokminis.us
 DOMAIN-SUFFIX,tiktokrow-cdn.com
+DOMAIN-SUFFIX,tiktokshop.com
+DOMAIN-SUFFIX,tiktokstaticb.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokvapp.com
 DOMAIN-SUFFIX,tiktokw.eu
 DOMAIN-SUFFIX,tiktokw.us
 DOMAIN-SUFFIX,ttcdn-us.com

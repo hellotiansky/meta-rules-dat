@@ -1,9 +1,9 @@
 # NAME: category-entertainment@telemetry
-# UPDATED: 2026-10-30 08:16:26
+# UPDATED: 2026-10-31 08:08:05
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 2
 # TOTAL: 4
 DOMAIN,sentry.ppy.sh
 DOMAIN,disney.my.sentry.io
-DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,insights-collector.gog.com
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com

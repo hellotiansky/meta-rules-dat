@@ -1,5 +1,5 @@
 # NAME: microsoft@cn
-# UPDATED: 2026-10-30 08:16:26
+# UPDATED: 2026-10-31 08:08:06
 # DOMAIN: 50
 # DOMAIN-SUFFIX: 139
 # TOTAL: 189
@@ -90,18 +90,6 @@ DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,dcg.microsoft.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
-DOMAIN-SUFFIX,bing.com.cn
-DOMAIN-SUFFIX,cn.bing.com
-DOMAIN-SUFFIX,cn.bing.net
-DOMAIN-SUFFIX,cn.mm.bing.net
-DOMAIN-SUFFIX,ditu.live.com
-DOMAIN-SUFFIX,r.bing.com
-DOMAIN-SUFFIX,th.bing.com
-DOMAIN-SUFFIX,microsoftreactor.cn
-DOMAIN-SUFFIX,microsoftreactor.com.cn
-DOMAIN-SUFFIX,reactorms.com.cn
-DOMAIN-SUFFIX,microsoftnews.cn
-DOMAIN-SUFFIX,msn.cn
 DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
@@ -192,3 +180,15 @@ DOMAIN-SUFFIX,azure-dns-7.cn
 DOMAIN-SUFFIX,azure-dns-8.cn
 DOMAIN-SUFFIX,azure-dns-9.cn
 DOMAIN-SUFFIX,azure-dns-10.cn
+DOMAIN-SUFFIX,bing.com.cn
+DOMAIN-SUFFIX,cn.bing.com
+DOMAIN-SUFFIX,cn.bing.net
+DOMAIN-SUFFIX,cn.mm.bing.net
+DOMAIN-SUFFIX,ditu.live.com
+DOMAIN-SUFFIX,r.bing.com
+DOMAIN-SUFFIX,th.bing.com
+DOMAIN-SUFFIX,microsoftreactor.cn
+DOMAIN-SUFFIX,microsoftreactor.com.cn
+DOMAIN-SUFFIX,reactorms.com.cn
+DOMAIN-SUFFIX,microsoftnews.cn
+DOMAIN-SUFFIX,msn.cn
