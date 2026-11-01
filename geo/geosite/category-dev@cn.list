@@ -1,5 +1,5 @@
 # NAME: category-dev@cn
-# UPDATED: 2026-10-31 08:08:06
+# UPDATED: 2026-11-01 08:53:13
 # DOMAIN: 15
 # DOMAIN-SUFFIX: 9
 # TOTAL: 24
@@ -18,6 +18,8 @@ DOMAIN,cdn-cn3.apple-mapkit.com
 DOMAIN,cdn-cn4.apple-mapkit.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,cdn.ampproject.org
+DOMAIN-SUFFIX,jetbrains.com.cn
+DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN-SUFFIX,researchkit.cn
 DOMAIN-SUFFIX,researchkit.com.cn
 DOMAIN-SUFFIX,swiftui.cn
@@ -25,5 +27,3 @@ DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,microsoftreactor.cn
 DOMAIN-SUFFIX,microsoftreactor.com.cn
 DOMAIN-SUFFIX,reactorms.com.cn
-DOMAIN-SUFFIX,jetbrains.com.cn
-DOMAIN-SUFFIX,cdn.jetbrains.com
