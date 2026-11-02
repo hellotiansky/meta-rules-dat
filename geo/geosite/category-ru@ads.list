@@ -1,19 +1,13 @@
 # NAME: category-ru@ads
-# UPDATED: 2026-11-01 08:53:13
+# UPDATED: 2026-11-02 09:00:44
 # DOMAIN: 126
 # DOMAIN-SUFFIX: 66
 # TOTAL: 192
-DOMAIN,metrika.kontur.ru
-DOMAIN,sentry.kontur.host
 DOMAIN,error-tracking.megamarket.tech
 DOMAIN,metrics.21-school.ru
 DOMAIN,sentry.sberauto.com
 DOMAIN,tracing-http.megamarket.tech
 DOMAIN,visor.sberbank.ru
-DOMAIN,sentry.iptv.rt.ru
-DOMAIN,ads.x5.ru
-DOMAIN,ads.x5media.ru
-DOMAIN,sentry.x5.ru
 DOMAIN,api-eu.carrotquest.app
 DOMAIN,api-eu.carrotquest.io
 DOMAIN,api-ru.carrotquest.app
@@ -33,6 +27,8 @@ DOMAIN,api.mindbox.ru
 DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
 DOMAIN,visor.sberbank.ru
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host
 DOMAIN,stats.avito.ru
 DOMAIN,ad.ozone.ru
 DOMAIN,adv.ozon.ru
@@ -113,6 +109,10 @@ DOMAIN,advk.vk.ru
 DOMAIN,analytics.vk.ru
 DOMAIN,stats.vk-portal.net
 DOMAIN,target.vk.com
+DOMAIN,ads.x5.ru
+DOMAIN,ads.x5media.ru
+DOMAIN,sentry.x5.ru
+DOMAIN,sentry.iptv.rt.ru
 DOMAIN,adfstat.yandex.ru
 DOMAIN,ads.yandex.com
 DOMAIN,ads.yango.com
@@ -162,14 +162,14 @@ DOMAIN-SUFFIX,top-fwz1.mail.ru
 DOMAIN-SUFFIX,trace-flow.ru
 DOMAIN-SUFFIX,tracker-api.my.com
 DOMAIN-SUFFIX,tracker.my.com
+DOMAIN-SUFFIX,log.dzen.ru
+DOMAIN-SUFFIX,ms.dzen.ru
 DOMAIN-SUFFIX,adv.vk.com
 DOMAIN-SUFFIX,analytics.vk.com
 DOMAIN-SUFFIX,ms.vk.com
 DOMAIN-SUFFIX,ms.vk.ru
 DOMAIN-SUFFIX,target.vk.ru
 DOMAIN-SUFFIX,vk-analytics.ru
-DOMAIN-SUFFIX,log.dzen.ru
-DOMAIN-SUFFIX,ms.dzen.ru
 DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,adfox.yandex.ru
 DOMAIN-SUFFIX,admetrica.ru

@@ -1,5 +1,5 @@
 # NAME: category-games-!cn@cn
-# UPDATED: 2026-11-01 08:53:13
+# UPDATED: 2026-11-02 09:00:44
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 33
 # URL-REGEX: 2
@@ -8,6 +8,7 @@ DOMAIN,gog.qtlglb.com
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,lv.queniujq.cn
 DOMAIN,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent.com
@@ -39,7 +40,6 @@ DOMAIN-SUFFIX,mariokart.com.cn
 DOMAIN-SUFFIX,supermariobros.com.cn
 DOMAIN-SUFFIX,leagueoflegends.cn
 DOMAIN-SUFFIX,lpl.com.cn
-DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,yostar.cn
 URL-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 URL-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$

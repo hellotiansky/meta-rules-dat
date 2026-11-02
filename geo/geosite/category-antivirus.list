@@ -1,5 +1,5 @@
 # NAME: category-antivirus
-# UPDATED: 2026-11-01 08:53:13
+# UPDATED: 2026-11-02 09:00:44
 # DOMAIN: 98
 # DOMAIN-SUFFIX: 68
 # TOTAL: 166
@@ -110,8 +110,6 @@ DOMAIN-SUFFIX,f-secure.com
 DOMAIN-SUFFIX,mcafee.com
 DOMAIN-SUFFIX,norton.com
 DOMAIN-SUFFIX,pandasecurity.com
-DOMAIN-SUFFIX,symantec.com
-DOMAIN-SUFFIX,symantecliveupdate.com
 DOMAIN-SUFFIX,comodo.com
 DOMAIN-SUFFIX,comodo.net
 DOMAIN-SUFFIX,drweb.by
@@ -153,6 +151,8 @@ DOMAIN-SUFFIX,kaspersky.de
 DOMAIN-SUFFIX,kaspersky.dk
 DOMAIN-SUFFIX,kaspersky.dz
 DOMAIN-SUFFIX,kaspersky.es
+DOMAIN-SUFFIX,symantec.com
+DOMAIN-SUFFIX,symantecliveupdate.com
 DOMAIN-SUFFIX,drweb.co.jp
 DOMAIN-SUFFIX,kaspersky.co.uk
 DOMAIN-SUFFIX,kaspersky.com.vn

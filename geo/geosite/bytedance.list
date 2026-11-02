@@ -1,8 +1,8 @@
 # NAME: bytedance
-# UPDATED: 2026-11-01 08:53:13
+# UPDATED: 2026-11-02 09:00:44
 # DOMAIN: 33
-# DOMAIN-SUFFIX: 925
-# TOTAL: 958
+# DOMAIN-SUFFIX: 928
+# TOTAL: 961
 DOMAIN,p3-novel.byteimg.com
 DOMAIN,p6-novel.byteimg.com
 DOMAIN,p1-juejin.byteimg.com
@@ -37,7 +37,7 @@ DOMAIN,roovza.inapps.appsflyersdk.com
 DOMAIN,roovza.launches.appsflyersdk.com
 DOMAIN,roovza.skadsdk.appsflyersdk.com
 DOMAIN-SUFFIX,larkoffice.com
-DOMAIN-SUFFIX,ihuoshanstatic.com
+DOMAIN-SUFFIX,volcenginepaas.com
 DOMAIN-SUFFIX,activity-dy.com
 DOMAIN-SUFFIX,activity01.com
 DOMAIN-SUFFIX,activity02.com
@@ -163,7 +163,7 @@ DOMAIN-SUFFIX,bytetraffic.net
 DOMAIN-SUFFIX,bytetstatic.com
 DOMAIN-SUFFIX,bytetstatic.net
 DOMAIN-SUFFIX,byteurl.cn
-DOMAIN-SUFFIX,larkofficeapp-boe.com
+DOMAIN-SUFFIX,bytevalk.com
 DOMAIN-SUFFIX,bytevcloudapi.com
 DOMAIN-SUFFIX,bytevcloudvod.com
 DOMAIN-SUFFIX,bytexservice.com
@@ -174,6 +174,7 @@ DOMAIN-SUFFIX,cdndns2.com
 DOMAIN-SUFFIX,doubo03.com
 DOMAIN-SUFFIX,draftstatic.com
 DOMAIN-SUFFIX,druid.vip
+DOMAIN-SUFFIX,edge-byted.com
 DOMAIN-SUFFIX,fedlearner.net
 DOMAIN-SUFFIX,feelgood.cn
 DOMAIN-SUFFIX,gcloudcache.com
@@ -349,6 +350,7 @@ DOMAIN-SUFFIX,ppximg.com
 DOMAIN-SUFFIX,ppxstatic.com
 DOMAIN-SUFFIX,ppxvod.com
 DOMAIN-SUFFIX,xiaoxiaapi.com
+DOMAIN-SUFFIX,haimian.com
 DOMAIN-SUFFIX,dailygn.com
 DOMAIN-SUFFIX,nvsgames.cn
 DOMAIN-SUFFIX,buydouke.com
@@ -459,9 +461,9 @@ DOMAIN-SUFFIX,larkcloud.net
 DOMAIN-SUFFIX,larkfn.com
 DOMAIN-SUFFIX,larkmeetings.cn
 DOMAIN-SUFFIX,larkmeetings.com
-DOMAIN-SUFFIX,douyinliving.com
+DOMAIN-SUFFIX,volcalb.com
 DOMAIN-SUFFIX,99uri.com
-DOMAIN-SUFFIX,bytevalk.com
+DOMAIN-SUFFIX,mchost.guru
 DOMAIN-SUFFIX,larkofficeapp-pre.com
 DOMAIN-SUFFIX,larkofficeapp.com
 DOMAIN-SUFFIX,larkofficeboe.com
@@ -484,7 +486,7 @@ DOMAIN-SUFFIX,mcbaas.work
 DOMAIN-SUFFIX,mcdemo.show
 DOMAIN-SUFFIX,open-douyin.com
 DOMAIN-SUFFIX,lifexue.com
-DOMAIN-SUFFIX,mchost.guru
+DOMAIN-SUFFIX,larkofficeapp-boe.com
 DOMAIN-SUFFIX,mcprev.cn
 DOMAIN-SUFFIX,tcwqqdy.guru
 DOMAIN-SUFFIX,trae.cn
@@ -628,7 +630,7 @@ DOMAIN-SUFFIX,volc-dns.pub
 DOMAIN-SUFFIX,volc-embed.com
 DOMAIN-SUFFIX,volcadocean.com
 DOMAIN-SUFFIX,volcadvc.com
-DOMAIN-SUFFIX,volcalb.com
+DOMAIN-SUFFIX,99uri.cn
 DOMAIN-SUFFIX,volcanoaisearchshare.com
 DOMAIN-SUFFIX,qingfuwu.com
 DOMAIN-SUFFIX,ai-kaleidoscope.com
@@ -672,7 +674,7 @@ DOMAIN-SUFFIX,volcengineapi.cn
 DOMAIN-SUFFIX,volcengineapi.com
 DOMAIN-SUFFIX,volcenginedns.com
 DOMAIN-SUFFIX,volcenginedns.net
-DOMAIN-SUFFIX,volcenginepaas.com
+DOMAIN-SUFFIX,thelarkcloud.com
 DOMAIN-SUFFIX,volces-test.com
 DOMAIN-SUFFIX,volces.cn
 DOMAIN-SUFFIX,volces.com
@@ -800,6 +802,7 @@ DOMAIN-SUFFIX,building.fun
 DOMAIN-SUFFIX,instreet.com
 DOMAIN-SUFFIX,doubao-dev.com
 DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,doubaoapps.com
 DOMAIN-SUFFIX,doubaocdn.com
 DOMAIN-SUFFIX,hi-butterfly.cn
 DOMAIN-SUFFIX,maoxiangai.com
@@ -827,7 +830,7 @@ DOMAIN-SUFFIX,douyinact.com
 DOMAIN-SUFFIX,douyinact.net
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinfe.com
-DOMAIN-SUFFIX,99uri.cn
+DOMAIN-SUFFIX,douyinliving.com
 DOMAIN-SUFFIX,douyinmusicpromotion.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
@@ -861,7 +864,7 @@ DOMAIN-SUFFIX,ieshuodong.net
 DOMAIN-SUFFIX,ihst8.com
 DOMAIN-SUFFIX,ihuoshanimg.com
 DOMAIN-SUFFIX,ihuoshanlive.com
-DOMAIN-SUFFIX,thelarkcloud.com
+DOMAIN-SUFFIX,ihuoshanstatic.com
 DOMAIN-SUFFIX,ihuoshanvod.com
 DOMAIN-SUFFIX,kolbuyer.cn
 DOMAIN-SUFFIX,nextvid.net
@@ -953,7 +956,6 @@ DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
 DOMAIN-SUFFIX,tiktokv.com.edgekey.net
 DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
 DOMAIN-SUFFIX,analytics.tiktok.com
-DOMAIN-SUFFIX,volceapplog.com
 DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,trae.ai
@@ -961,3 +963,4 @@ DOMAIN-SUFFIX,cici.com
 DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,ciciaicdn.com
 DOMAIN-SUFFIX,dola.com
+DOMAIN-SUFFIX,volceapplog.com

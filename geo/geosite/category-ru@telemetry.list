@@ -1,18 +1,16 @@
 # NAME: category-ru@telemetry
-# UPDATED: 2026-11-01 08:53:13
+# UPDATED: 2026-11-02 09:00:44
 # DOMAIN: 33
 # DOMAIN-SUFFIX: 18
 # TOTAL: 51
-DOMAIN,metrika.kontur.ru
-DOMAIN,sentry.kontur.host
 DOMAIN,error-tracking.megamarket.tech
 DOMAIN,metrics.21-school.ru
 DOMAIN,sentry.sberauto.com
 DOMAIN,tracing-http.megamarket.tech
-DOMAIN,sentry.iptv.rt.ru
-DOMAIN,sentry.x5.ru
 DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host
 DOMAIN,stats.avito.ru
 DOMAIN,sentry.ozon.ru
 DOMAIN,analytics-stage.wildberries.ru
@@ -31,6 +29,8 @@ DOMAIN,stats.dev.telega.info
 DOMAIN,stats.rustore.ru
 DOMAIN,stats.telega.info
 DOMAIN,stats.vk-portal.net
+DOMAIN,sentry.x5.ru
+DOMAIN,sentry.iptv.rt.ru
 DOMAIN,analytics.mobile.yandex.net
 DOMAIN,log.strm.yandex.ru
 DOMAIN,mc.yandex.com

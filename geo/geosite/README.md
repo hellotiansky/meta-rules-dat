@@ -1,6 +1,6 @@
 # GeoSite 规则列表
 
-> 自动生成于 2026-11-01 08:53:13  |  共 **2017** 个规则
+> 自动生成于 2026-11-02 09:00:44  |  共 **2018** 个规则
 
 ## 使用说明
 
@@ -1894,6 +1894,7 @@
 | `weathercn` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/weathercn.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/weathercn.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/weathercn.srs) |
 | `webex` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webex.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webex.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webex.srs) |
 | `webex@cn` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webex%40cn.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webex%40cn.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webex%40cn.srs) |
+| `webflow` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webflow.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webflow.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webflow.srs) |
 | `webnovel` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webnovel.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webnovel.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webnovel.srs) |
 | `webnovel@!cn` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webnovel%40!cn.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webnovel%40!cn.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webnovel%40!cn.srs) |
 | `webtype` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webtype.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webtype.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/webtype.srs) |
