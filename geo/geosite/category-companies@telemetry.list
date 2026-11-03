@@ -1,16 +1,8 @@
 # NAME: category-companies@telemetry
-# UPDATED: 2026-11-02 09:00:44
+# UPDATED: 2026-11-03 09:10:01
 # DOMAIN: 33
 # DOMAIN-SUFFIX: 30
 # TOTAL: 63
-DOMAIN,analytics.mobile.yandex.net
-DOMAIN,log.strm.yandex.ru
-DOMAIN,mc.yandex.com
-DOMAIN,mc.yandex.net
-DOMAIN,mc.yango.com
-DOMAIN,incoming.telemetry.mozilla.org
-DOMAIN,incoming-telemetry.thunderbird.net
-DOMAIN,sentry.hetzner.company
 DOMAIN,sentry-ng.g.smailru.net
 DOMAIN,srch-telemeter10.g.smailru.net
 DOMAIN,sentry.dev-my.com
@@ -28,7 +20,10 @@ DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,rt.services.visualstudio.com
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN,sentry.iptv.rt.ru
+DOMAIN,sentry.hetzner.company
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebaselogging-pa.googleapis.com
@@ -36,22 +31,11 @@ DOMAIN,firebaselogging.googleapis.com
 DOMAIN,update.crashlytics.com
 DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
-DOMAIN-SUFFIX,appmetrica.yandex.com
-DOMAIN-SUFFIX,appmetrica.yandex.net
-DOMAIN-SUFFIX,appmetrica.yandex.ru
-DOMAIN-SUFFIX,appmetrica.yango.com
-DOMAIN-SUFFIX,counter.yandex.ru
-DOMAIN-SUFFIX,mc.yandex.ru
-DOMAIN-SUFFIX,metrika.yandex.com
-DOMAIN-SUFFIX,metrika.yandex.net
-DOMAIN-SUFFIX,metrika.yandex.ru
-DOMAIN-SUFFIX,webvisor.com
-DOMAIN-SUFFIX,webvisor.org
-DOMAIN-SUFFIX,yandex-metrica.ru
-DOMAIN-SUFFIX,yandexmetrica.com
-DOMAIN-SUFFIX,analytics.vpc.duolingo.com
-DOMAIN-SUFFIX,metrics.duolingo.com
-DOMAIN-SUFFIX,adobestats.io
+DOMAIN,analytics.mobile.yandex.net
+DOMAIN,log.strm.yandex.ru
+DOMAIN,mc.yandex.com
+DOMAIN,mc.yandex.net
+DOMAIN,mc.yango.com
 DOMAIN-SUFFIX,apptracer.ru
 DOMAIN-SUFFIX,metrics.viqeo.tv
 DOMAIN-SUFFIX,log.dzen.ru
@@ -66,3 +50,19 @@ DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
+DOMAIN-SUFFIX,adobestats.io
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com
+DOMAIN-SUFFIX,appmetrica.yandex.com
+DOMAIN-SUFFIX,appmetrica.yandex.net
+DOMAIN-SUFFIX,appmetrica.yandex.ru
+DOMAIN-SUFFIX,appmetrica.yango.com
+DOMAIN-SUFFIX,counter.yandex.ru
+DOMAIN-SUFFIX,mc.yandex.ru
+DOMAIN-SUFFIX,metrika.yandex.com
+DOMAIN-SUFFIX,metrika.yandex.net
+DOMAIN-SUFFIX,metrika.yandex.ru
+DOMAIN-SUFFIX,webvisor.com
+DOMAIN-SUFFIX,webvisor.org
+DOMAIN-SUFFIX,yandex-metrica.ru
+DOMAIN-SUFFIX,yandexmetrica.com
