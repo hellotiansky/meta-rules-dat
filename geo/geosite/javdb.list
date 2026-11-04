@@ -1,5 +1,5 @@
 # NAME: javdb
-# UPDATED: 2026-11-03 09:10:01
+# UPDATED: 2026-11-04 08:45:59
 # DOMAIN-SUFFIX: 4
 # URL-REGEX: 1
 # TOTAL: 5
@@ -7,4 +7,4 @@ DOMAIN-SUFFIX,jav.app
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,jdbimgs.com
 DOMAIN-SUFFIX,jdbstatic.com
-URL-REGEX,javdb\d+\.com$
+URL-REGEX,(^|\.)javdb\d+\.com$

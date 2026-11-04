@@ -1,5 +1,5 @@
 # NAME: alibaba@ads
-# UPDATED: 2026-11-03 09:10:01
+# UPDATED: 2026-11-04 08:45:59
 # DOMAIN-SUFFIX: 87
 # TOTAL: 87
 DOMAIN-SUFFIX,a.alimama.cn
@@ -40,12 +40,12 @@ DOMAIN-SUFFIX,dualstack-logs.amap.com
 DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,optimus-ads.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+DOMAIN-SUFFIX,ads.uc.cn
+DOMAIN-SUFFIX,adslot.uc.cn
 DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
 DOMAIN-SUFFIX,adashx.ut.ele.me
 DOMAIN-SUFFIX,h-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
-DOMAIN-SUFFIX,ads.uc.cn
-DOMAIN-SUFFIX,adslot.uc.cn
 DOMAIN-SUFFIX,aaid.umeng.com
 DOMAIN-SUFFIX,alog.umeng.com
 DOMAIN-SUFFIX,alog.umengcloud.com
