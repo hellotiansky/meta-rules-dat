@@ -1,13 +1,18 @@
 # NAME: category-games-!cn@cn
-# UPDATED: 2026-11-04 08:45:59
+# UPDATED: 2026-11-05 09:09:07
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 33
 # URL-REGEX: 2
 # TOTAL: 39
-DOMAIN,gog.qtlglb.com
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,lv.queniujq.cn
 DOMAIN,xz.pphimalayanrt.com
+DOMAIN,gog.qtlglb.com
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN-SUFFIX,yostar.cn
+DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
 DOMAIN-SUFFIX,miitomo.com.cn
@@ -36,10 +41,5 @@ DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
-DOMAIN-SUFFIX,xboxlive.cn
-DOMAIN-SUFFIX,yostar.cn
-DOMAIN-SUFFIX,bluearchive-cn.com
-DOMAIN-SUFFIX,leagueoflegends.cn
-DOMAIN-SUFFIX,lpl.com.cn
 URL-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 URL-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$

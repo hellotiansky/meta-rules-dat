@@ -1,5 +1,5 @@
 # NAME: apple@cn
-# UPDATED: 2026-11-04 08:45:59
+# UPDATED: 2026-11-05 09:09:07
 # DOMAIN: 236
 # DOMAIN-SUFFIX: 61
 # TOTAL: 297
@@ -167,6 +167,8 @@ DOMAIN,weatherkit.apple.com
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,xp.apple.com
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,podcasts.apple.com
 DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
 DOMAIN,aod-ssl.itunes.apple.com
@@ -222,8 +224,6 @@ DOMAIN,cdn-cn1.apple-mapkit.com
 DOMAIN,cdn-cn2.apple-mapkit.com
 DOMAIN,cdn-cn3.apple-mapkit.com
 DOMAIN,cdn-cn4.apple-mapkit.com
-DOMAIN,amp-api.podcasts.apple.com
-DOMAIN,podcasts.apple.com
 DOMAIN,amp-api-edge.music.apple.com
 DOMAIN,amp-api.music.apple.com
 DOMAIN,js-cdn.music.apple.com
@@ -277,6 +277,13 @@ DOMAIN-SUFFIX,livephotos.com.cn
 DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn
 DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn
 DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
+DOMAIN-SUFFIX,apple-icloud.cn
+DOMAIN-SUFFIX,appleicloud.cn
+DOMAIN-SUFFIX,icloud-apple.cn
+DOMAIN-SUFFIX,icloud-content.com.cn
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,icloud.net.cn
+DOMAIN-SUFFIX,icloudapple.cn
 DOMAIN-SUFFIX,apple-itunes.cn
 DOMAIN-SUFFIX,itunes-apple.cn
 DOMAIN-SUFFIX,itunesapple.cn
@@ -293,10 +300,3 @@ DOMAIN-SUFFIX,beats4.cn
 DOMAIN-SUFFIX,beatsbydre.com
 DOMAIN-SUFFIX,beatsbydre.com.cn
 DOMAIN-SUFFIX,beatsep.cn
-DOMAIN-SUFFIX,apple-icloud.cn
-DOMAIN-SUFFIX,appleicloud.cn
-DOMAIN-SUFFIX,icloud-apple.cn
-DOMAIN-SUFFIX,icloud-content.com.cn
-DOMAIN-SUFFIX,icloud.com.cn
-DOMAIN-SUFFIX,icloud.net.cn
-DOMAIN-SUFFIX,icloudapple.cn

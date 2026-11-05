@@ -1,6 +1,6 @@
 # GeoSite 规则列表
 
-> 自动生成于 2026-11-04 08:45:59  |  共 **2018** 个规则
+> 自动生成于 2026-11-05 09:09:07  |  共 **2019** 个规则
 
 ## 使用说明
 
@@ -1468,6 +1468,7 @@
 | `primevideo@cn` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/primevideo%40cn.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/primevideo%40cn.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/primevideo%40cn.srs) |
 | `private` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/private.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/private.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/private.srs) |
 | `progress` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/progress.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/progress.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/progress.srs) |
+| `projectmoon` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/projectmoon.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/projectmoon.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/projectmoon.srs) |
 | `projectpoi` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/projectpoi.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/projectpoi.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/projectpoi.srs) |
 | `projectsekai` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/projectsekai.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/projectsekai.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/projectsekai.srs) |
 | `proquest` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/proquest.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/proquest.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/proquest.srs) |
