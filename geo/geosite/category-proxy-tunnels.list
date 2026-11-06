@@ -1,7 +1,10 @@
 # NAME: category-proxy-tunnels
-# UPDATED: 2026-11-05 09:09:07
+# UPDATED: 2026-11-06 09:01:17
 # DOMAIN-SUFFIX: 16
 # TOTAL: 16
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,equinox.io
 DOMAIN-SUFFIX,ngrok-agent.com
 DOMAIN-SUFFIX,ngrok-free.app
@@ -15,6 +18,3 @@ DOMAIN-SUFFIX,ngrok.pizza
 DOMAIN-SUFFIX,ngrok.pro
 DOMAIN-SUFFIX,pinggy.io
 DOMAIN-SUFFIX,pinggy.link
-DOMAIN-SUFFIX,tailscale.com
-DOMAIN-SUFFIX,tailscale.io
-DOMAIN-SUFFIX,ts.net

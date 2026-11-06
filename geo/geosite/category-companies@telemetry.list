@@ -1,5 +1,5 @@
 # NAME: category-companies@telemetry
-# UPDATED: 2026-11-05 09:09:07
+# UPDATED: 2026-11-06 09:01:17
 # DOMAIN: 33
 # DOMAIN-SUFFIX: 30
 # TOTAL: 63
@@ -9,11 +9,9 @@ DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,rt.services.visualstudio.com
-DOMAIN,analytics.mobile.yandex.net
-DOMAIN,log.strm.yandex.ru
-DOMAIN,mc.yandex.com
-DOMAIN,mc.yandex.net
-DOMAIN,mc.yango.com
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
+DOMAIN,sentry.iptv.rt.ru
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebaselogging-pa.googleapis.com
@@ -22,9 +20,6 @@ DOMAIN,update.crashlytics.com
 DOMAIN,sentry.hetzner.company
 DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,incoming-telemetry.thunderbird.net
-DOMAIN,sentry.mindbox.ru
-DOMAIN,sentry.popmechanic.ru
-DOMAIN,sentry.iptv.rt.ru
 DOMAIN,sentry-ng.g.smailru.net
 DOMAIN,srch-telemeter10.g.smailru.net
 DOMAIN,sentry.dev-my.com
@@ -36,6 +31,11 @@ DOMAIN,stats.dev.telega.info
 DOMAIN,stats.rustore.ru
 DOMAIN,stats.telega.info
 DOMAIN,stats.vk-portal.net
+DOMAIN,analytics.mobile.yandex.net
+DOMAIN,log.strm.yandex.ru
+DOMAIN,mc.yandex.com
+DOMAIN,mc.yandex.net
+DOMAIN,mc.yango.com
 DOMAIN-SUFFIX,applicationinsights.io
 DOMAIN-SUFFIX,applicationinsights.net
 DOMAIN-SUFFIX,aria.ms
@@ -49,6 +49,10 @@ DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,analytics.vpc.duolingo.com
 DOMAIN-SUFFIX,metrics.duolingo.com
+DOMAIN-SUFFIX,adobestats.io
+DOMAIN-SUFFIX,apptracer.ru
+DOMAIN-SUFFIX,metrics.viqeo.tv
+DOMAIN-SUFFIX,log.dzen.ru
 DOMAIN-SUFFIX,appmetrica.yandex.com
 DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
@@ -62,7 +66,3 @@ DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,webvisor.org
 DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandexmetrica.com
-DOMAIN-SUFFIX,adobestats.io
-DOMAIN-SUFFIX,apptracer.ru
-DOMAIN-SUFFIX,metrics.viqeo.tv
-DOMAIN-SUFFIX,log.dzen.ru

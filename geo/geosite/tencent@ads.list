@@ -1,5 +1,5 @@
 # NAME: tencent@ads
-# UPDATED: 2026-11-05 09:09:07
+# UPDATED: 2026-11-06 09:01:17
 # DOMAIN-SUFFIX: 72
 # TOTAL: 72
 DOMAIN-SUFFIX,ad.browser.qq.com
@@ -52,6 +52,15 @@ DOMAIN-SUFFIX,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,wit.qq.com
+DOMAIN-SUFFIX,inte.sogou.com
+DOMAIN-SUFFIX,inte.sogoucdn.com
+DOMAIN-SUFFIX,lu.sogou.com
+DOMAIN-SUFFIX,lu.sogoucdn.com
+DOMAIN-SUFFIX,pb.i.sogou.com
+DOMAIN-SUFFIX,theta.sogoucdn.com
+DOMAIN-SUFFIX,uranus.sogou.com
+DOMAIN-SUFFIX,wuliao.epro.sogou.com
+DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,adstats.tencentmusic.com
 DOMAIN-SUFFIX,monitor.music.qq.com
@@ -65,12 +74,3 @@ DOMAIN-SUFFIX,adse.ximalaya.com
 DOMAIN-SUFFIX,ads.service.kugou.com
 DOMAIN-SUFFIX,adserviceretry.kglink.cn
 DOMAIN-SUFFIX,adserviceretry.kugou.com
-DOMAIN-SUFFIX,inte.sogou.com
-DOMAIN-SUFFIX,inte.sogoucdn.com
-DOMAIN-SUFFIX,lu.sogou.com
-DOMAIN-SUFFIX,lu.sogoucdn.com
-DOMAIN-SUFFIX,pb.i.sogou.com
-DOMAIN-SUFFIX,theta.sogoucdn.com
-DOMAIN-SUFFIX,uranus.sogou.com
-DOMAIN-SUFFIX,wuliao.epro.sogou.com
-DOMAIN-SUFFIX,badjs.weixinbridge.com
