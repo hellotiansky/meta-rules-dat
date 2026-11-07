@@ -1,6 +1,6 @@
 # GeoSite 规则列表
 
-> 自动生成于 2026-11-06 09:01:17  |  共 **2019** 个规则
+> 自动生成于 2026-11-07 08:29:52  |  共 **2021** 个规则
 
 ## 使用说明
 
@@ -1715,6 +1715,7 @@
 | `tbank-ru` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tbank-ru.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tbank-ru.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tbank-ru.srs) |
 | `tcl` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tcl.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tcl.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tcl.srs) |
 | `tcl@ads` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tcl%40ads.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tcl%40ads.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tcl%40ads.srs) |
+| `tcl@telemetry` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tcl%40telemetry.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tcl%40telemetry.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tcl%40telemetry.srs) |
 | `teambition` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/teambition.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/teambition.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/teambition.srs) |
 | `teamspeak` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/teamspeak.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/teamspeak.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/teamspeak.srs) |
 | `teamviewer` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/teamviewer.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/teamviewer.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/teamviewer.srs) |
@@ -1731,6 +1732,7 @@
 | `tencent-dev@ads` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-dev%40ads.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-dev%40ads.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-dev%40ads.srs) |
 | `tencent-dev@telemetry` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-dev%40telemetry.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-dev%40telemetry.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-dev%40telemetry.srs) |
 | `tencent-games` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-games.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-games.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-games.srs) |
+| `tencent-games@!cn` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-games%40!cn.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-games%40!cn.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-games%40!cn.srs) |
 | `tencent-tme` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-tme.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-tme.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-tme.srs) |
 | `tencent-tme@ads` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-tme%40ads.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-tme%40ads.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-tme%40ads.srs) |
 | `tencent-tme@telemetry` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-tme%40telemetry.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-tme%40telemetry.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/tencent-tme%40telemetry.srs) |

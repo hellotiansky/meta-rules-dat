@@ -1,5 +1,5 @@
 # NAME: category-dev@telemetry
-# UPDATED: 2026-11-06 09:01:17
+# UPDATED: 2026-11-07 08:29:51
 # DOMAIN: 9
 # DOMAIN-SUFFIX: 5
 # TOTAL: 14
@@ -12,8 +12,8 @@ DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,rt.services.visualstudio.com
+DOMAIN-SUFFIX,cafe.github.com
+DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,analytics.cloud.unity3d.com
 DOMAIN-SUFFIX,perf.cloud.unity3d.com
 DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
-DOMAIN-SUFFIX,cafe.github.com
-DOMAIN-SUFFIX,collector.github.com

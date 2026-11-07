@@ -1,9 +1,9 @@
 # NAME: category-media@cn
-# UPDATED: 2026-11-06 09:01:17
+# UPDATED: 2026-11-07 08:29:51
 # DOMAIN-SUFFIX: 5
 # TOTAL: 5
-DOMAIN-SUFFIX,etnet.com.cn
-DOMAIN-SUFFIX,etnetchina.com.cn
 DOMAIN-SUFFIX,cn-cdn1.skymansion.net
 DOMAIN-SUFFIX,tvbc.com.cn
+DOMAIN-SUFFIX,etnet.com.cn
+DOMAIN-SUFFIX,etnetchina.com.cn
 DOMAIN-SUFFIX,thetype.cloud
