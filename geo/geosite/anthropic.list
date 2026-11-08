@@ -1,9 +1,11 @@
 # NAME: anthropic
-# UPDATED: 2026-11-07 08:29:51
-# DOMAIN: 1
+# UPDATED: 2026-11-08 08:43:05
+# DOMAIN: 3
 # DOMAIN-SUFFIX: 18
-# TOTAL: 19
+# TOTAL: 21
 DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,http-intake.logs.us5.datadoghq.com
+DOMAIN,o1158394.ingest.us.sentry.io
 DOMAIN-SUFFIX,ant.dev
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,anthropic.team

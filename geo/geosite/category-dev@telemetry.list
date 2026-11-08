@@ -1,15 +1,15 @@
 # NAME: category-dev@telemetry
-# UPDATED: 2026-11-07 08:29:51
+# UPDATED: 2026-11-08 08:43:05
 # DOMAIN: 9
 # DOMAIN-SUFFIX: 5
 # TOTAL: 14
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebaselogging.googleapis.com
 DOMAIN,update.crashlytics.com
-DOMAIN,copilot-telemetry-service.githubusercontent.com
-DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,rt.services.visualstudio.com
 DOMAIN-SUFFIX,cafe.github.com

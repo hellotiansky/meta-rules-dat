@@ -1,6 +1,6 @@
 # GeoSite 规则列表
 
-> 自动生成于 2026-11-07 08:29:52  |  共 **2021** 个规则
+> 自动生成于 2026-11-08 08:43:06  |  共 **2022** 个规则
 
 ## 使用说明
 
@@ -127,6 +127,7 @@
 | `annas-archive` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/annas-archive.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/annas-archive.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/annas-archive.srs) |
 | `anon-v` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/anon-v.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/anon-v.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/anon-v.srs) |
 | `anthropic` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/anthropic.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/anthropic.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/anthropic.srs) |
+| `anthropic@telemetry` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/anthropic%40telemetry.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/anthropic%40telemetry.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/anthropic%40telemetry.srs) |
 | `ap` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/ap.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/ap.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/ap.srs) |
 | `apa` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/apa.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/apa.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/apa.srs) |
 | `aparat` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/aparat.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/aparat.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/aparat.srs) |
