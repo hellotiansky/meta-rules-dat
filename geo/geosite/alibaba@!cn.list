@@ -1,5 +1,5 @@
 # NAME: alibaba@!cn
-# UPDATED: 2026-11-08 08:43:05
+# UPDATED: 2026-11-09 09:22:41
 # DOMAIN-SUFFIX: 38
 # TOTAL: 38
 DOMAIN-SUFFIX,alihealth.hk
@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
+DOMAIN-SUFFIX,youku.tv
+DOMAIN-SUFFIX,youkuplay.com
 DOMAIN-SUFFIX,alibabacloud.co.in
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alibabacloud.com.au
@@ -38,5 +40,3 @@ DOMAIN-SUFFIX,alibabacloud.com.my
 DOMAIN-SUFFIX,alibabacloud.com.sg
 DOMAIN-SUFFIX,alibabacloud.com.tw
 DOMAIN-SUFFIX,alicloud.com
-DOMAIN-SUFFIX,youku.tv
-DOMAIN-SUFFIX,youkuplay.com
