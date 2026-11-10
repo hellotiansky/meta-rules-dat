@@ -1,8 +1,11 @@
 # NAME: category-entertainment-cn@telemetry
-# UPDATED: 2026-11-09 09:22:41
+# UPDATED: 2026-11-10 09:25:57
 # DOMAIN: 11
 # DOMAIN-SUFFIX: 7
 # TOTAL: 18
+DOMAIN,log-sdk.gifshow.com
+DOMAIN,wlog.kuaishou.com
+DOMAIN,apilog-web.acfun.cn
 DOMAIN,log3-applog-hl.fqnovel.com
 DOMAIN,log3-applog.fqnovel.com
 DOMAIN,log5-applog-hl.fqnovel.com
@@ -11,9 +14,6 @@ DOMAIN,rtlog3-applog-hl.fqnovel.com
 DOMAIN,rtlog3-applog.fqnovel.com
 DOMAIN,rtlog5-applog-hl.fqnovel.com
 DOMAIN,rtlog5-applog.fqnovel.com
-DOMAIN,log-sdk.gifshow.com
-DOMAIN,wlog.kuaishou.com
-DOMAIN,apilog-web.acfun.cn
 DOMAIN-SUFFIX,monitor.music.qq.com
 DOMAIN-SUFFIX,report.tencentmusic.com
 DOMAIN-SUFFIX,stat.y.qq.com

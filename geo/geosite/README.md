@@ -1,6 +1,6 @@
 # GeoSite 规则列表
 
-> 自动生成于 2026-11-09 09:22:41  |  共 **2022** 个规则
+> 自动生成于 2026-11-10 09:25:57  |  共 **2023** 个规则
 
 ## 使用说明
 
@@ -892,6 +892,7 @@
 | `googlefcm@!cn` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/googlefcm%40!cn.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/googlefcm%40!cn.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/googlefcm%40!cn.srs) |
 | `goproxy` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/goproxy.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/goproxy.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/goproxy.srs) |
 | `gracg` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/gracg.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/gracg.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/gracg.srs) |
+| `grafanalabs` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/grafanalabs.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/grafanalabs.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/grafanalabs.srs) |
 | `grapheneos` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/grapheneos.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/grapheneos.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/grapheneos.srs) |
 | `gravatar` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/gravatar.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/gravatar.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/gravatar.srs) |
 | `greatfire` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/greatfire.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/greatfire.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/greatfire.srs) |
