@@ -1,5 +1,5 @@
 # NAME: epicgames@cn
-# UPDATED: 2026-11-10 09:25:57
+# UPDATED: 2026-11-11 08:59:26
 # URL-REGEX: 2
 # TOTAL: 2
 URL-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
