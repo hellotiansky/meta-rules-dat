@@ -1,5 +1,5 @@
 # NAME: tencent@!cn
-# UPDATED: 2026-11-11 08:59:26
+# UPDATED: 2026-11-12 09:27:41
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 71
 # TOTAL: 72
@@ -8,9 +8,6 @@ DOMAIN-SUFFIX,tencent.co.id
 DOMAIN-SUFFIX,tencent.com.hk
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
-DOMAIN-SUFFIX,tencentgames.com
-DOMAIN-SUFFIX,levelinfinite.com
-DOMAIN-SUFFIX,nikke-en.com
 DOMAIN-SUFFIX,webnovel.com
 DOMAIN-SUFFIX,intltencentcos.com
 DOMAIN-SUFFIX,ap-hongkong.myqcloud.com
@@ -75,3 +72,6 @@ DOMAIN-SUFFIX,ca.file.myqcloud.com
 DOMAIN-SUFFIX,ger.file.myqcloud.com
 DOMAIN-SUFFIX,rumt-sg.com
 DOMAIN-SUFFIX,rumt-us.com
+DOMAIN-SUFFIX,tencentgames.com
+DOMAIN-SUFFIX,levelinfinite.com
+DOMAIN-SUFFIX,nikke-en.com
