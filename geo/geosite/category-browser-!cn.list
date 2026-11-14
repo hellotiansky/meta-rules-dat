@@ -1,5 +1,5 @@
 # NAME: category-browser-!cn
-# UPDATED: 2026-11-13 09:15:20
+# UPDATED: 2026-11-14 08:43:42
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 35
 # TOTAL: 37
@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,pulsebrowser.app
 DOMAIN-SUFFIX,basilisk-browser.org
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bromite.org
-DOMAIN-SUFFIX,librewolf.net
+DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,cromite.org
 DOMAIN-SUFFIX,decentr.net
 DOMAIN-SUFFIX,dothq.org
@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,iridiumbrowser.de
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,waterfox.net
 DOMAIN-SUFFIX,zen-browser.app
-DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,ceno.app
 DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,epicbrowser.com
@@ -39,4 +38,5 @@ DOMAIN-SUFFIX,firefox.hu
 DOMAIN-SUFFIX,firefoxtweetmachine.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,librewolf.dev
+DOMAIN-SUFFIX,librewolf.net
 DOMAIN-SUFFIX,browser.kagi.com
