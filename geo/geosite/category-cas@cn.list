@@ -1,10 +1,17 @@
 # NAME: category-cas@cn
-# UPDATED: 2026-11-14 08:43:42
+# UPDATED: 2026-11-15 08:55:59
 # DOMAIN: 18
 # DOMAIN-SUFFIX: 13
 # TOTAL: 31
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,crl.globalsign.net
+DOMAIN,pki-goog.l.google.com
+DOMAIN,c.pki.goog
+DOMAIN,i.pki.goog
+DOMAIN,o.pki.goog
+DOMAIN,crl.pki.goog
+DOMAIN,crls.pki.goog
+DOMAIN,ocsp.pki.goog
 DOMAIN,www.entrust.cn
 DOMAIN,certs-lb.apple.com.akadns.net
 DOMAIN,certs.apple.com
@@ -14,13 +21,6 @@ DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2.apple.com
 DOMAIN,valid.apple.com
 DOMAIN,valid.origin-apple.com.akadns.net
-DOMAIN,pki-goog.l.google.com
-DOMAIN,c.pki.goog
-DOMAIN,i.pki.goog
-DOMAIN,o.pki.goog
-DOMAIN,crl.pki.goog
-DOMAIN,crls.pki.goog
-DOMAIN,ocsp.pki.goog
 DOMAIN-SUFFIX,dcocsp.cn
 DOMAIN-SUFFIX,digicert.cn
 DOMAIN-SUFFIX,alphassl.com

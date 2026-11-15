@@ -1,5 +1,5 @@
 # NAME: geolocation-cn@telemetry
-# UPDATED: 2026-11-14 08:43:42
+# UPDATED: 2026-11-15 08:55:59
 # DOMAIN-SUFFIX: 12
 # TOTAL: 12
 DOMAIN-SUFFIX,base.api.my7v.com
@@ -11,6 +11,6 @@ DOMAIN-SUFFIX,dc-uo.api.leiniao.com
 DOMAIN-SUFFIX,dc-ut.api.leiniao.com
 DOMAIN-SUFFIX,qms-report-o.api.leiniao.com
 DOMAIN-SUFFIX,qms-report-t.api.leiniao.com
-DOMAIN-SUFFIX,shuqistat.com
 DOMAIN-SUFFIX,meitustat.com
+DOMAIN-SUFFIX,shuqistat.com
 DOMAIN-SUFFIX,cloudflareinsights-cn.com
