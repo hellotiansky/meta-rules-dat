@@ -1,18 +1,21 @@
 # NAME: microsoft-dev
-# UPDATED: 2026-11-15 08:55:59
-# DOMAIN: 18
+# UPDATED: 2026-11-16 09:09:33
+# DOMAIN: 22
 # DOMAIN-SUFFIX: 58
-# TOTAL: 76
+# TOTAL: 80
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,bingsettingssearch.trafficmanager.net
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN,default.exp-tas.com
 DOMAIN,developer.microsoft.com
+DOMAIN,dotnetcli.trafficmanager.net
 DOMAIN,dtlgalleryint.cloudapp.net
 DOMAIN,packages.microsoft.com
 DOMAIN,poshtestgallery.cloudapp.net
 DOMAIN,psg-int-centralus.cloudapp.net
 DOMAIN,psg-int-eastus.cloudapp.net
 DOMAIN,rink.hockeyapp.net
+DOMAIN,sundry-star-net-geo.trafficmanager.net
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,vscode.blob.core.windows.net
@@ -21,6 +24,7 @@ DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,rt.services.visualstudio.com
+DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN-SUFFIX,adaptivecards.io
 DOMAIN-SUFFIX,api-extractor.com
 DOMAIN-SUFFIX,apisof.net
