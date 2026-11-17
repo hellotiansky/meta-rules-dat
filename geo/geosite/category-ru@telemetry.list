@@ -1,30 +1,28 @@
 # NAME: category-ru@telemetry
-# UPDATED: 2026-11-16 09:09:33
+# UPDATED: 2026-11-17 10:21:44
 # DOMAIN: 33
 # DOMAIN-SUFFIX: 18
 # TOTAL: 51
-DOMAIN,error-tracking.megamarket.tech
-DOMAIN,metrics.21-school.ru
-DOMAIN,sentry.sberauto.com
-DOMAIN,tracing-http.megamarket.tech
-DOMAIN,metrika.kontur.ru
-DOMAIN,sentry.kontur.host
-DOMAIN,sentry.mindbox.ru
-DOMAIN,sentry.popmechanic.ru
-DOMAIN,sentry.x5.ru
-DOMAIN,analytics.mobile.yandex.net
-DOMAIN,log.strm.yandex.ru
-DOMAIN,mc.yandex.com
-DOMAIN,mc.yandex.net
-DOMAIN,mc.yango.com
-DOMAIN,sentry.iptv.rt.ru
+DOMAIN,stats.avito.ru
 DOMAIN,sentry.ozon.ru
 DOMAIN,analytics-stage.wildberries.ru
 DOMAIN,analytics.wildberries.ru
 DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,sentry.wb.ru
 DOMAIN,web-analytics.wildberries.ru
-DOMAIN,stats.avito.ru
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
+DOMAIN,analytics.mobile.yandex.net
+DOMAIN,log.strm.yandex.ru
+DOMAIN,mc.yandex.com
+DOMAIN,mc.yandex.net
+DOMAIN,mc.yango.com
+DOMAIN,error-tracking.megamarket.tech
+DOMAIN,metrics.21-school.ru
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host
 DOMAIN,sentry-ng.g.smailru.net
 DOMAIN,srch-telemeter10.g.smailru.net
 DOMAIN,sentry.dev-my.com
@@ -36,7 +34,8 @@ DOMAIN,stats.dev.telega.info
 DOMAIN,stats.rustore.ru
 DOMAIN,stats.telega.info
 DOMAIN,stats.vk-portal.net
-DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN,sentry.iptv.rt.ru
+DOMAIN,sentry.x5.ru
 DOMAIN-SUFFIX,appmetrica.yandex.com
 DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
@@ -54,3 +53,4 @@ DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,apptracer.ru
 DOMAIN-SUFFIX,metrics.viqeo.tv
 DOMAIN-SUFFIX,log.dzen.ru
+DOMAIN-SUFFIX,clickstream.sberbank.ru

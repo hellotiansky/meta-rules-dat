@@ -1,5 +1,5 @@
 # NAME: microsoft@cn
-# UPDATED: 2026-11-16 09:09:33
+# UPDATED: 2026-11-17 10:21:44
 # DOMAIN: 50
 # DOMAIN-SUFFIX: 139
 # TOTAL: 189
@@ -90,6 +90,7 @@ DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,dcg.microsoft.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
+DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
 DOMAIN-SUFFIX,21vbluecloud.net
@@ -191,4 +192,3 @@ DOMAIN-SUFFIX,microsoftreactor.com.cn
 DOMAIN-SUFFIX,reactorms.com.cn
 DOMAIN-SUFFIX,microsoftnews.cn
 DOMAIN-SUFFIX,msn.cn
-DOMAIN-SUFFIX,xboxlive.cn

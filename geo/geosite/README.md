@@ -1,6 +1,6 @@
 # GeoSite 规则列表
 
-> 自动生成于 2026-11-16 09:09:33  |  共 **2023** 个规则
+> 自动生成于 2026-11-17 10:21:44  |  共 **2025** 个规则
 
 ## 使用说明
 
@@ -979,6 +979,8 @@
 | `hupun` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/hupun.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/hupun.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/hupun.srs) |
 | `hurricaneelectric` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/hurricaneelectric.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/hurricaneelectric.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/hurricaneelectric.srs) |
 | `huya` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/huya.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/huya.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/huya.srs) |
+| `hypergryph` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/hypergryph.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/hypergryph.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/hypergryph.srs) |
+| `hypergryph@!cn` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/hypergryph%40!cn.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/hypergryph%40!cn.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/hypergryph%40!cn.srs) |
 | `ibkr` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/ibkr.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/ibkr.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/ibkr.srs) |
 | `ibm` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/ibm.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/ibm.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/ibm.srs) |
 | `icable` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/icable.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/icable.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/icable.srs) |
