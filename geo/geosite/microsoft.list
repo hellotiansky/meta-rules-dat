@@ -1,5 +1,5 @@
 # NAME: microsoft
-# UPDATED: 2026-11-18 09:52:27
+# UPDATED: 2026-11-19 09:59:45
 # DOMAIN: 121
 # DOMAIN-SUFFIX: 638
 # DOMAIN-KEYWORD: 3
@@ -511,6 +511,12 @@ DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
+DOMAIN-SUFFIX,beth.games
+DOMAIN-SUFFIX,bethesda.net
+DOMAIN-SUFFIX,bethesdagamestudios.com
+DOMAIN-SUFFIX,bethsoft.com
+DOMAIN-SUFFIX,doom.com
+DOMAIN-SUFFIX,elderscrolls.com
 DOMAIN-SUFFIX,forza.net
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
@@ -521,12 +527,6 @@ DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mojang.com
-DOMAIN-SUFFIX,beth.games
-DOMAIN-SUFFIX,bethesda.net
-DOMAIN-SUFFIX,bethesdagamestudios.com
-DOMAIN-SUFFIX,bethsoft.com
-DOMAIN-SUFFIX,doom.com
-DOMAIN-SUFFIX,elderscrolls.com
 DOMAIN-SUFFIX,microsoft.be
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,azure-api.net
