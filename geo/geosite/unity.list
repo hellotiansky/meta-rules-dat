@@ -1,9 +1,10 @@
 # NAME: unity
-# UPDATED: 2026-11-24 12:08:49
-# DOMAIN-SUFFIX: 10
-# TOTAL: 10
+# UPDATED: 2026-11-25 11:08:21
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,vivox.com
 DOMAIN-SUFFIX,analytics.cloud.unity3d.com
 DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com

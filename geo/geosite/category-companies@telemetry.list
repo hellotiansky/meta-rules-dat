@@ -1,14 +1,14 @@
 # NAME: category-companies@telemetry
-# UPDATED: 2026-11-24 12:08:49
+# UPDATED: 2026-11-25 11:08:21
 # DOMAIN: 33
 # DOMAIN-SUFFIX: 30
 # TOTAL: 63
-DOMAIN,sentry.hetzner.company
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebaselogging.googleapis.com
 DOMAIN,update.crashlytics.com
+DOMAIN,sentry.hetzner.company
 DOMAIN,analytics.mobile.yandex.net
 DOMAIN,log.strm.yandex.ru
 DOMAIN,mc.yandex.com
@@ -25,17 +25,18 @@ DOMAIN,stats.dev.telega.info
 DOMAIN,stats.rustore.ru
 DOMAIN,stats.telega.info
 DOMAIN,stats.vk-portal.net
-DOMAIN,incoming.telemetry.mozilla.org
-DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN,sentry.iptv.rt.ru
-DOMAIN,sentry.mindbox.ru
-DOMAIN,sentry.popmechanic.ru
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,rt.services.visualstudio.com
 DOMAIN,dc.applicationinsights.azure.com
 DOMAIN,live.applicationinsights.azure.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN-SUFFIX,adobestats.io
 DOMAIN-SUFFIX,appmetrica.yandex.com
 DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
@@ -65,4 +66,3 @@ DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,in.applicationinsights.azure.com
 DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,collector.github.com
-DOMAIN-SUFFIX,adobestats.io
