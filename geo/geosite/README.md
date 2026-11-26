@@ -1,6 +1,6 @@
 # GeoSite 规则列表
 
-> 自动生成于 2026-11-25 11:08:21  |  共 **2025** 个规则
+> 自动生成于 2026-11-26 10:35:30  |  共 **2026** 个规则
 
 ## 使用说明
 
@@ -1794,6 +1794,7 @@
 | `trackernetwork` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trackernetwork.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trackernetwork.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trackernetwork.srs) |
 | `trae` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trae.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trae.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trae.srs) |
 | `translatewiki` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/translatewiki.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/translatewiki.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/translatewiki.srs) |
+| `transtelecom` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/transtelecom.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/transtelecom.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/transtelecom.srs) |
 | `trello` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trello.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trello.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trello.srs) |
 | `trustasia` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trustasia.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trustasia.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trustasia.srs) |
 | `trustwallet` | [list](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trustwallet.list) | [json](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trustwallet.json) | [srs](https://github.com/hellotiansky/meta-rules-dat/blob/sing/geo/geosite/trustwallet.srs) |

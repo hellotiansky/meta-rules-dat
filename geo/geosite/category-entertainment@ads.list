@@ -1,14 +1,14 @@
 # NAME: category-entertainment@ads
-# UPDATED: 2026-11-25 11:08:21
+# UPDATED: 2026-11-26 10:35:30
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 5
 # TOTAL: 9
-DOMAIN,disney.my.sentry.io
 DOMAIN,adeventtracker.spotify.com
 DOMAIN,adstudio-assets.scdn.co
 DOMAIN,bloodhound.spotify.com
-DOMAIN-SUFFIX,ads-pixiv.net
+DOMAIN,disney.my.sentry.io
 DOMAIN-SUFFIX,analytics.tiktok.com
-DOMAIN-SUFFIX,ads.youtube.com
-DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,insights-collector.gog.com
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,ads.youtube.com
