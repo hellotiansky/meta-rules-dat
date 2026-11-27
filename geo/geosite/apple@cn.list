@@ -1,5 +1,5 @@
 # NAME: apple@cn
-# UPDATED: 2026-11-26 10:35:30
+# UPDATED: 2026-11-27 10:38:46
 # DOMAIN: 240
 # DOMAIN-SUFFIX: 62
 # TOTAL: 302
@@ -178,6 +178,13 @@ DOMAIN,cdn-cn1.apple-mapkit.com
 DOMAIN,cdn-cn2.apple-mapkit.com
 DOMAIN,cdn-cn3.apple-mapkit.com
 DOMAIN,cdn-cn4.apple-mapkit.com
+DOMAIN,amp-api-edge.music.apple.com
+DOMAIN,amp-api.music.apple.com
+DOMAIN,js-cdn.music.apple.com
+DOMAIN,music.apple.com
+DOMAIN,musicstatus.music.apple.com
+DOMAIN,play.music.apple.com
+DOMAIN,speedysub.music.apple.com
 DOMAIN,certs-lb.apple.com.akadns.net
 DOMAIN,certs.apple.com
 DOMAIN,crl-lb.apple.com.akadns.net
@@ -236,13 +243,6 @@ DOMAIN,itunes-apple.com.akadns.net
 DOMAIN,itunes.apple.com
 DOMAIN,itunesconnect.apple.com
 DOMAIN,osxapps.itunes.g.aaplimg.com
-DOMAIN,amp-api-edge.music.apple.com
-DOMAIN,amp-api.music.apple.com
-DOMAIN,js-cdn.music.apple.com
-DOMAIN,music.apple.com
-DOMAIN,musicstatus.music.apple.com
-DOMAIN,play.music.apple.com
-DOMAIN,speedysub.music.apple.com
 DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple-appstore.cn
@@ -293,11 +293,6 @@ DOMAIN-SUFFIX,beats4.cn
 DOMAIN-SUFFIX,beatsbydre.com
 DOMAIN-SUFFIX,beatsbydre.com.cn
 DOMAIN-SUFFIX,beatsep.cn
-DOMAIN-SUFFIX,apple-itunes.cn
-DOMAIN-SUFFIX,itunes-apple.cn
-DOMAIN-SUFFIX,itunesapple.cn
-DOMAIN-SUFFIX,itunesradio.cn
-DOMAIN-SUFFIX,itunesradio.com.cn
 DOMAIN-SUFFIX,apple-icloud.cn
 DOMAIN-SUFFIX,appleicloud.cn
 DOMAIN-SUFFIX,icloud-apple.cn
@@ -305,3 +300,8 @@ DOMAIN-SUFFIX,icloud-content.com.cn
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.net.cn
 DOMAIN-SUFFIX,icloudapple.cn
+DOMAIN-SUFFIX,apple-itunes.cn
+DOMAIN-SUFFIX,itunes-apple.cn
+DOMAIN-SUFFIX,itunesapple.cn
+DOMAIN-SUFFIX,itunesradio.cn
+DOMAIN-SUFFIX,itunesradio.com.cn

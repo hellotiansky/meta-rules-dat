@@ -1,10 +1,30 @@
 # NAME: category-ru@telemetry
-# UPDATED: 2026-11-26 10:35:30
+# UPDATED: 2026-11-27 10:38:46
 # DOMAIN: 33
 # DOMAIN-SUFFIX: 18
 # TOTAL: 51
+DOMAIN,analytics.mobile.yandex.net
+DOMAIN,log.strm.yandex.ru
+DOMAIN,mc.yandex.com
+DOMAIN,mc.yandex.net
+DOMAIN,mc.yango.com
 DOMAIN,metrika.kontur.ru
 DOMAIN,sentry.kontur.host
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
+DOMAIN,error-tracking.megamarket.tech
+DOMAIN,metrics.21-school.ru
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
+DOMAIN,analytics-stage.wildberries.ru
+DOMAIN,analytics.wildberries.ru
+DOMAIN,marketplace-sentry.wb.ru
+DOMAIN,sentry.wb.ru
+DOMAIN,web-analytics.wildberries.ru
+DOMAIN,stats.avito.ru
+DOMAIN,sentry.ozon.ru
+DOMAIN,sentry.iptv.rt.ru
+DOMAIN,sentry.x5.ru
 DOMAIN,sentry-ng.g.smailru.net
 DOMAIN,srch-telemeter10.g.smailru.net
 DOMAIN,sentry.dev-my.com
@@ -16,31 +36,6 @@ DOMAIN,stats.dev.telega.info
 DOMAIN,stats.rustore.ru
 DOMAIN,stats.telega.info
 DOMAIN,stats.vk-portal.net
-DOMAIN,sentry.iptv.rt.ru
-DOMAIN,error-tracking.megamarket.tech
-DOMAIN,metrics.21-school.ru
-DOMAIN,sentry.sberauto.com
-DOMAIN,tracing-http.megamarket.tech
-DOMAIN,sentry.x5.ru
-DOMAIN,analytics.mobile.yandex.net
-DOMAIN,log.strm.yandex.ru
-DOMAIN,mc.yandex.com
-DOMAIN,mc.yandex.net
-DOMAIN,mc.yango.com
-DOMAIN,stats.avito.ru
-DOMAIN,sentry.ozon.ru
-DOMAIN,analytics-stage.wildberries.ru
-DOMAIN,analytics.wildberries.ru
-DOMAIN,marketplace-sentry.wb.ru
-DOMAIN,sentry.wb.ru
-DOMAIN,web-analytics.wildberries.ru
-DOMAIN,sentry.mindbox.ru
-DOMAIN,sentry.popmechanic.ru
-DOMAIN-SUFFIX,apptracer.ru
-DOMAIN-SUFFIX,metrics.viqeo.tv
-DOMAIN-SUFFIX,log.dzen.ru
-DOMAIN-SUFFIX,clickstream.sberbank.ru
-DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,appmetrica.yandex.com
 DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
@@ -54,3 +49,8 @@ DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,webvisor.org
 DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandexmetrica.com
+DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN-SUFFIX,apptracer.ru
+DOMAIN-SUFFIX,metrics.viqeo.tv
+DOMAIN-SUFFIX,log.dzen.ru
