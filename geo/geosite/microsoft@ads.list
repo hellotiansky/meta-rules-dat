@@ -1,11 +1,11 @@
 # NAME: microsoft@ads
-# UPDATED: 2026-11-27 10:38:46
+# UPDATED: 2026-11-28 09:55:42
 # DOMAIN-SUFFIX: 7
 # TOTAL: 7
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,microsoftads.com
 DOMAIN-SUFFIX,msads.net
 DOMAIN-SUFFIX,nelreports.net
+DOMAIN-SUFFIX,bingads.com
 DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
-DOMAIN-SUFFIX,bingads.com
